@@ -1,0 +1,997 @@
+title,location,price_final_pen,bedroom,bathroom,area,year_contruction,maintenance_num,housing_type,operation_type
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2700.0,2 dormitorios,2 baños,103 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Cercado,"Cercado, Arequipa, Arequipa, Arequipa ",3100.0,3 dormitorios,4 baños,151 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Barranco, Lima, Lima ",2160.0,2 dormitorios,2 baños,66 m²,2020,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, Lince, Lima, Lima ",2600.0,1 dormitorio,2 baños,60 m²,2022,330.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, Santiago de Surco, Lima, Lima ",2300.0,2 dormitorios,2 baños,50 m²,2022,250.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",6900.0,5 dormitorios,3 baños,194 m²,1962,70.0,Casa,Alquiler
+Habitación en alquiler en Ah. Los Jazmines Del Naranjal Sector Ii,"Ah. Los Jazmines Del Naranjal Sector Ii, San Martín de Porres, Lima, Lima ",350.0,1 dormitorio,1 baño,14 m²,2017,304.0,Habitación,Alquiler
+Apartamento en alquiler en Ba. S/N,"Ba. S/N, Rimac, Lima, Lima ",3600.0,1 dormitorio,2 baños,134 m²,2022,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",4350.0,4 dormitorios,2 baños,185 m²,2000,225.0,Apartamento,Alquiler
+Finca en alquiler en Tarata,"Tarata, Tarata, Tacna ",5460.0,2 dormitorios,2 baños,80 m²,2022,304.0,Finca,Alquiler
+Apartamento en alquiler en Ur. Santa Rosa,"Ur. Santa Rosa, San Isidro, Lima, Lima ",3000.0,3 dormitorios,3 baños,70 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Lima, Lima ",2600.0,2 dormitorios,2 baños,70 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",1800.0,2 dormitorios,2 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Tacna,"Tacna, Tacna, Tacna ",2940.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. San Andres,"Ur. San Andres, Trujillo, Trujillo, La Libertad ",5500.0,6 dormitorios,5 baños,300 m²,1983,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. La Campiña,"Ur. La Campiña, Chorrillos, Lima, Lima ",1600.0,3 dormitorios,2 baños,76 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Pimentel,"Pimentel, Chiclayo, Lambayeque ",3500.0,2 dormitorios,3 baños,300 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2600.0,2 dormitorios,2 baños,59 m²,2018,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Sd. Aeropuerto De Collique,"Sd. Aeropuerto De Collique, Comas, Lima, Lima ",1100.0,3 dormitorios,2 baños,75 m²,2018,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Beatriz,"Ur. Santa Beatriz, Lima, Lima, Lima ",1950.0,2 dormitorios,2 baños,67 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jorge Chavez,"Ur. Jorge Chavez, Surquillo, Lima, Lima ",2300.0,3 dormitorios,2 baños,81 m²,2011,260.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",2600.0,2 dormitorios,2 baños,100 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",1800.0,3 dormitorios,2 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",1800.0,2 dormitorios,1 baño,80 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",1860.0,1 dormitorio,2 baños,90 m²,2015,304.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",5400.0,4 dormitorios,3 baños,288 m²,2003,304.0,Casa,Alquiler
+Apartamento en alquiler en Jesús María,"Jesús María, Lima, Lima ",2500.0,3 dormitorios,2 baños,75 m²,2021,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Re. San Felipe,"Re. San Felipe, San Isidro, Lima, Lima ",2040.0,1 dormitorio,2 baños,47 m²,2019,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Ampliacion San Isidro,"Ur. Ampliacion San Isidro, San Isidro, Lima, Lima ",4050.0,2 dormitorios,3 baños,118 m²,2022,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3450.0,3 dormitorios,3 baños,150 m²,2014,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Este,"Ur. Valle Hermoso Este, Santiago de Surco, Lima, Lima ",2700.0,3 dormitorios,3 baños,90 m²,1988,110.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",2850.0,3 dormitorios,3 baños,137 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Begonias,"Ur. Las Begonias, San Borja, Lima, Lima ",2800.0,2 dormitorios,2 baños,130 m²,2000,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",4050.0,3 dormitorios,3 baños,202 m²,2009,490.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector 3,"Sector 3, Urb Santa Cruz, Provincia de Lima, Provincia de Lima ",4200.0,3 dormitorios,2 baños,120 m²,2022,480.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Encantada,"Ur. La Encantada, Chorrillos, Lima, Lima ",2100.0,2 dormitorios,2 baños,70 m²,2016,304.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",4500.0,4 dormitorios,3 baños,300 m²,2008,100.0,Casa,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",3600.0,3 dormitorios,2 baños,160 m²,2005,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb los Patricios,"Urb los Patricios, Provincia de Lima, Municipalidad Metropolitana de Lima ",2250.0,3 dormitorios,2 baños,110 m²,2022,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Udima,"Ur. Udima, Magdalena del Mar, Lima, Lima ",1600.0,1 dormitorio,1 baño,42 m²,2022,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",3600.0,3 dormitorios,2 baños,140 m²,2005,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. La Chacrita,"Ur. La Chacrita, Cayma, Arequipa, Arequipa ",3000.0,3 dormitorios,4 baños,283 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",900.0,3 dormitorios,1 baño,70 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, San Isidro, Lima, Lima ",2100.0,1 dormitorio,1 baño,53 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1650.0,2 dormitorios,1 baño,67 m²,2018,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Magisterial,"Ur. Magisterial, Arequipa, Arequipa, Arequipa ",2200.0,4 dormitorios,2 baños,100 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",4350.0,3 dormitorios,2 baños,175 m²,2014,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3900.0,3 dormitorios,3 baños,107 m²,2010,440.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2550.0,3 dormitorios,2 baños,125 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1800.0,2 dormitorios,1 baño,62 m²,2008,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Surco,"Surco, Santiago De Surco, Lima, Lima ",4500.0,4 dormitorios,4 baños,220 m²,2013,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Juan Sector D,"Ur. San Juan Sector D, San Juan de Miraflores, Lima, Lima ",1500.0,3 dormitorios,2 baños,135 m²,2012,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Moron,"Ah. Moron, Chaclacayo, Lima, Lima ",1110.0,3 dormitorios,2 baños,85 m²,2011,304.0,Apartamento,Alquiler
+Casa en alquiler en Pimentel,"Pimentel, Chiclayo, Lambayeque ",3500.0,2 dormitorios,2 baños,300 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Cieneguilla,"Cieneguilla, Lima, Lima ",4500.0,3 dormitorios,3 baños,500 m²,2020,304.0,Casa,Alquiler
+Apartamento en alquiler en Urb Cercado de Miraflores,"Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",4200.0,2 dormitorios,2 baños,111 m²,2005,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",3150.0,1 dormitorio,3 baños,125 m²,2018,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,84 m²,2012,400.0,Apartamento,Alquiler
+Casa en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",2600.0,3 dormitorios,2 baños,92 m²,1960,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Barboncito,"Ur. Barboncito, Miraflores, Lima, Lima ",3000.0,2 dormitorios,3 baños,124 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2300.0,1 dormitorio,1 baño,43 m²,2013,230.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2100.0,3 dormitorios,3 baños,89 m²,2010,400.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Halcones,"Ur. Los Halcones, Chaclacayo, Lima, Lima ",5400.0,3 dormitorios,3 baños,624 m²,1988,1.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",1530.0,1 dormitorio,1 baño,55 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Libertad,"Ur. Libertad, San Miguel, Lima, Lima ",1800.0,3 dormitorios,2 baños,82 m²,2014,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Cayma,"Cayma, Cerro Colorado, Arequipa, Arequipa ",2700.0,3 dormitorios,3 baños,110 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Libertad,"Ur. Libertad, San Miguel, Lima, Lima ",2800.0,2 dormitorios,2 baños,60 m²,2019,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Lince,"Lince, Lima, Lima ",2100.0,1 dormitorio,1 baño,50 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chiclin,"Ur. Chiclin, La Perla, Callao, Callao ",2500.0,1 dormitorio,1 baño,41 m²,2017,110.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",8400.0,4 dormitorios,3 baños,"1,021 m²",2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",2850.0,3 dormitorios,3 baños,180 m²,1983,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Recaudadores,"Ur. Los Recaudadores, Ate, Lima, Lima ",1680.0,2 dormitorios,2 baños,80 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en San Martín de Porres,"San Martín de Porres, Lima, Lima ",1100.0,3 dormitorios,2 baños,140 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",1100.0,2 dormitorios,1 baño,45 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",4350.0,3 dormitorios,2 baños,200 m²,2022,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",2370.0,3 dormitorios,2 baños,116 m²,2019,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Sd. S/N,"Sd. S/N, Puente Piedra, Lima, Lima ",800.0,3 dormitorios,1 baño,54 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Capullana,"Ur. La Capullana, Santiago de Surco, Lima, Lima ",2500.0,2 dormitorios,2 baños,106 m²,2015,90.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Cabo Gc Juan Ingunza Valdivia (Vipol),"Ur. Cabo Gc Juan Ingunza Valdivia (Vipol), Callao, Callao, Callao ",1200.0,2 dormitorios,1 baño,73 m²,2015,20.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Daniel A. Carrion,"Ur. Daniel A. Carrion, Chiclayo, Chiclayo, Lambayeque ",4000.0,5 dormitorios,3 baños,200 m²,2022,150.0,Casa,Alquiler
+Apartamento en alquiler en Ica,"Ica, Ica, Ica ",2300.0,1 dormitorio,1 baño,80 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Javier Prado (Cahuache),"Ur. Javier Prado (Cahuache), San Borja, Lima, Lima ",5700.0,7 dormitorios,4 baños,207 m²,1992,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Lince, Lima, Lima ",2800.0,3 dormitorios,2 baños,96 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",1500.0,3 dormitorios,2 baños,110 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Javier Prado (Cahuache),"Ur. Javier Prado (Cahuache), San Borja, Lima, Lima ",5700.0,7 dormitorios,4 baños,1 Medio baño,2022,304.0,Casa,Alquiler
+Habitación en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",450.0,1 dormitorio,1 baño,20 m²,3,304.0,Habitación,Alquiler
+Apartamento en alquiler en Ur. Santa Raquel Sector B Zona Este,"Ur. Santa Raquel Sector B Zona Este, La Molina, Lima, Lima ",1700.0,2 dormitorios,1 baño,68 m²,2015,100.0,Apartamento,Alquiler
+Casa en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",950.0,2 dormitorios,1 baño,146 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Orbea,"Ur. Orbea, Magdalena del Mar, Lima, Lima ",240.0,2 dormitorios,2 baños,66 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",2900.0,2 dormitorios,2 baños,61 m²,2021,160.0,Apartamento,Alquiler
+Habitación en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",490.0,1 dormitorio,1 baño,20 m²,3,304.0,Habitación,Alquiler
+Apartamento en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",1000.0,3 dormitorios,1 baño,60 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Recaudadores,"Ur. Los Recaudadores, Ate, Lima, Lima ",2000.0,3 dormitorios,2 baños,92 m²,2014,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",780.0,2 dormitorios,1 baño,75 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",1390.0,2 dormitorios,1 baño,63 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Capilla (U-2),"Ur. La Capilla (U-2), La Molina, Lima, Lima ",1000.0,2 dormitorios,1 baño,35 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",4650.0,3 dormitorios,3 baños,217 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,3 dormitorios,2 baños,108 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Beatriz,"Ur. Santa Beatriz, Jesús María, Lima, Lima ",1100.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",1250.0,3 dormitorios,2 baños,84 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Lobaton,"Ur. Lobaton, Lince, Lima, Lima ",2400.0,1 dormitorio,1 baño,46 m²,2022,170.0,Apartamento,Alquiler
+Casa en alquiler en San Isidro,"San Isidro, Lima, Lima ",4050.0,3 dormitorios,3 baños,214 m²,2002,450.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2550.0,2 dormitorios,3 baños,84 m²,2015,317.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2940.0,3 dormitorios,2 baños,96 m²,2020,360.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Pedregal De Higuereta(San Atanacio De Pedregal),"Ur. Pedregal De Higuereta(San Atanacio De Pedregal), Surquillo, Lima, Lima ",2300.0,2 dormitorios,2 baños,70 m²,2023,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Pedregal De Higuereta(San Atanacio De Pedregal),"Ur. Pedregal De Higuereta(San Atanacio De Pedregal), Surquillo, Lima, Lima ",1800.0,1 dormitorio,1 baño,56 m²,2023,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Iquitos,"Iquitos, Maynas, Loreto ",1200.0,2 dormitorios,1 baño,54 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Carabayllo,"Carabayllo, Lima, Lima ",900.0,2 dormitorios,1 baño,140 m²,2016,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Santa Beatriz,"Ur. Santa Beatriz, Jesús María, Lima, Lima ",1800.0,1 dormitorio,1 baño,50 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Lima, Lima ",2200.0,1 dormitorio,1 baño,43 m²,2018,150.0,Apartamento,Alquiler
+Casa en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",1500.0,2 dormitorios,2 baños,150 m²,2009,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Las Gardenias,"Ur. Las Gardenias, Santiago de Surco, Lima, Lima ",2350.0,2 dormitorios,2 baños,50 m²,2022,230.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2700.0,1 dormitorio,1 baño,45 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",2970.0,2 dormitorios,4 baños,126 m²,2021,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",4140.0,3 dormitorios,2 baños,131 m²,2020,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jardin,"Ur. Jardin, San Isidro, Lima, Lima ",2700.0,1 dormitorio,1 baño,45 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jacaranda,"Ur. Jacaranda, San Borja, Lima, Lima ",2800.0,2 dormitorios,1 baño,80 m²,2019,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Propietarios De Parque Industrial El Asesor,"Propietarios De Parque Industrial El Asesor, Provincia de Lima, Provincia de Lima ",800.0,1 dormitorio,1 baño,45 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Up. Tahuantinsuyo Etapa I,"Up. Tahuantinsuyo Etapa I, Independencia, Lima, Lima ",1050.0,1 dormitorio,1 baño,80 m²,2016,1.0,Apartamento,Alquiler
+Casa en alquiler en Ur. La Planicie,"Ur. La Planicie, Punta Hermosa, Lima, Lima ",6000.0,4 dormitorios,4 baños,300 m²,2000,304.0,Casa,Alquiler
+Casa en alquiler en Subtanjalla,"Subtanjalla, Ica, Ica ",2090.0,5 dormitorios,4 baños,135 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Colmenares,"Ur. Colmenares, Pueblo Libre, Lima, Lima ",2280.0,3 dormitorios,2 baños,104 m²,2017,270.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Huertos De San Antonio,"Ur. Huertos De San Antonio, Santiago de Surco, Lima, Lima ",4650.0,4 dormitorios,4 baños,220 m²,1991,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",2350.0,2 dormitorios,2 baños,50 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",3000.0,2 dormitorios,4 baños,150 m²,2020,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Punta Hermosa,"Punta Hermosa, Lima, Lima ",3000.0,3 dormitorios,3 baños,129 m²,2014,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balconcillo,"Ur. Balconcillo, La Victoria, Lima, Lima ",2300.0,3 dormitorios,2 baños,70 m²,2022,220.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",4500.0,2 dormitorios,2 baños,104 m²,2005,631.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",4200.0,2 dormitorios,3 baños,107 m²,2010,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Retamas,"Retamas, Yanahuara, Arequipa, Arequipa ",1800.0,4 dormitorios,4 baños,135 m²,2012,300.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Jazmines,"Ur. Los Jazmines, Santiago de Surco, Lima, Lima ",7800.0,5 dormitorios,4 baños,350 m²,1998,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Alicia,"Ur. Alicia, Santiago de Surco, Lima, Lima ",2940.0,3 dormitorios,3 baños,126 m²,2019,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3600.0,2 dormitorios,2 baños,100 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Residencial Higuereta,"Ur. Residencial Higuereta, Santiago de Surco, Lima, Lima ",4600.0,3 dormitorios,5 baños,224 m²,2018,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Residencial La Libertad,"Ur. Residencial La Libertad, Santiago de Surco, Lima, Lima ",2200.0,3 dormitorios,2 baños,80 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2700.0,2 dormitorios,3 baños,110 m²,2012,330.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2400.0,2 dormitorios,2 baños,72 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",2850.0,2 dormitorios,3 baños,92 m²,2021,328.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Casuarinas Sur,"Ur. Casuarinas Sur, Santiago de Surco, Lima, Lima ",3600.0,3 dormitorios,3 baños,167 m²,2015,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2070.0,1 dormitorio,1 baño,60 m²,2022,235.0,Apartamento,Alquiler
+Apartamento en alquiler en Ica,"Ica, Ica, Ica ",1550.0,2 dormitorios,2 baños,84 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,80 m²,2016,480.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. Virgen De Fatima,"Co. Virgen De Fatima, San Martín de Porres, Lima, Lima ",800.0,2 dormitorios,2 baños,58 m²,1500,25.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. Santa Rosa De Quives,"Co. Santa Rosa De Quives, Santa Anita, Lima, Lima ",1600.0,3 dormitorios,2 baños,68 m²,2022,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. Virgen De Fatima,"Co. Virgen De Fatima, San Martín de Porres, Lima, Lima ",850.0,2 dormitorios,1 baño,65 m²,1500,25.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Totorita,"Ah. Totorita, Rimac, Lima, Lima ",1450.0,2 dormitorios,1 baño,59 m²,2023,304.0,Apartamento,Alquiler
+Casa en alquiler en Ica,"Ica, Ica, Ica ",1500.0,3 dormitorios,3 baños,160 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. El Vivero,"Ur. El Vivero, Santiago de Surco, Lima, Lima ",3100.0,3 dormitorios,3 baños,105 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2280.0,1 dormitorio,1 baño,45 m²,2017,300.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",4950.0,3 dormitorios,2 baños,300 m²,2008,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",2760.0,2 dormitorios,2 baños,55 m²,2019,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",6300.0,3 dormitorios,4 baños,246 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",1400.0,1 dormitorio,1 baño,60 m²,2000,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Calera De La Merced,"Ur. La Calera De La Merced, Surquillo, Lima, Lima ",1800.0,2 dormitorios,1 baño,70 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",8400.0,3 dormitorios,5 baños,280 m²,2010,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Calera De La Merced,"Ur. La Calera De La Merced, Surquillo, Lima, Lima ",1600.0,1 dormitorio,1 baño,65 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Residencial Salamanca,"Ur. Residencial Salamanca, Ate, Lima, Lima ",1800.0,3 dormitorios,2 baños,105 m²,2018,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Portales Del Naranjal,"Ur. Los Portales Del Naranjal, San Martín de Porres, Lima, Lima ",6000.0,12 dormitorios,7 baños,209 m²,2012,1.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Eugenio,"Ur. San Eugenio, Lince, Lima, Lima ",2100.0,1 dormitorio,1 baño,53 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Tacna,"Tacna, Tacna, Tacna ",1000.0,3 dormitorios,2 baños,100 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Tacna,"Tacna, Tacna, Tacna ",1100.0,3 dormitorios,2 baños,100 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Bartolome Herrera,"Ur. Bartolome Herrera, San Miguel, Lima, Lima ",2200.0,2 dormitorios,2 baños,75 m²,2017,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",1300.0,1 dormitorio,1 baño,35 m²,2003,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",2500.0,4 dormitorios,2 baños,85 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Monterrico Norte,"Ur. Monterrico Norte, San Borja, Lima, Lima ",3450.0,5 dormitorios,3 baños,232 m²,1998,300.0,Apartamento,Alquiler
+Apartamento en alquiler en La Calera De La Merced,"La Calera De La Merced, Provincia de Lima, Provincia de Lima ",2250.0,2 dormitorios,1 baño,60 m²,2020,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",6000.0,3 dormitorios,2 baños,180 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",3000.0,2 dormitorios,3 baños,90 m²,2011,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Gobierno Regional de Lima ",3300.0,3 dormitorios,2 baños,155 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Comas,"Comas, Lima, Lima ",940.0,2 dormitorios,1 baño,50 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Carabayllo,"Carabayllo, Lima, Lima ",1000.0,2 dormitorios,1 baño,102 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Ciudad De Papel Iii Etapa,"Ur. Ciudad De Papel Iii Etapa, San Miguel, Lima, Lima ",1500.0,2 dormitorios,1 baño,51 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Raquel Sector A Zona Este,"Ur. Santa Raquel Sector A Zona Este, La Molina, Lima, Lima ",2100.0,2 dormitorios,2 baños,75 m²,1997,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urbanización La Floresta,"Urbanización La Floresta, Los Olivos, Lima, Lima ",2100.0,4 dormitorios,3 baños,260 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. Vipol El Alamo,"Co. Vipol El Alamo, Comas, Lima, Lima ",1000.0,3 dormitorios,1 baño,61 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",4500.0,3 dormitorios,2 baños,300 m²,2008,304.0,Casa,Alquiler
+Apartamento en alquiler en Pachacamac,"Pachacamac, Lima, Lima ",1200.0,2 dormitorios,1 baño,60 m²,2018,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Upis Ciudad De Lima,"Ah. Upis Ciudad De Lima, Comas, Lima, Lima ",550.0,1 dormitorio,1 baño,40 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",8400.0,3 dormitorios,3 baños,240 m²,2019,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ate,"Ate, Lima, Lima ",2400.0,4 dormitorios,3 baños,130 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, San Borja, Lima, Lima ",4500.0,3 dormitorios,3 baños,140 m²,2014,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Tungasuca,"Ur. Tungasuca, Carabayllo, Lima, Lima ",4000.0,7 dormitorios,2 baños,212 m²,1999,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",3000.0,3 dormitorios,2 baños,78 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",3900.0,3 dormitorios,3 baños,130 m²,2020,450.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. Pando V Etapa,"Ur. Pando V Etapa, San Miguel, Lima, Lima ",800.0,1 dormitorio,1 baño,20 m²,2023,304.0,Habitación,Alquiler
+Habitación en alquiler en Ur. Pando V Etapa,"Ur. Pando V Etapa, San Miguel, Lima, Lima ",500.0,1 dormitorio,1 baño,8 m²,2023,304.0,Habitación,Alquiler
+Habitación en alquiler en Ur. Pando V Etapa,"Ur. Pando V Etapa, San Miguel, Lima, Lima ",600.0,1 dormitorio,1 baño,18 m²,2023,304.0,Habitación,Alquiler
+Apartamento en alquiler en Ur. La Planicie,"Ur. La Planicie, Punta Hermosa, Lima, Lima ",3150.0,4 dormitorios,3 baños,124 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. El Pacifico,"Co. El Pacifico, San Martín de Porres, Lima, Lima ",1000.0,3 dormitorios,2 baños,60 m²,2019,304.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. Pando V Etapa,"Ur. Pando V Etapa, San Miguel, Lima, Lima ",550.0,1 dormitorio,1 baño,15 m²,2023,304.0,Habitación,Alquiler
+Apartamento en alquiler en Sd. S/N,"Sd. S/N, Puente Piedra, Lima, Lima ",700.0,3 dormitorios,1 baño,58 m²,2021,304.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. Pando V Etapa,"Ur. Pando V Etapa, San Miguel, Lima, Lima ",800.0,1 dormitorio,1 baño,24 m²,2023,304.0,Habitación,Alquiler
+Apartamento en alquiler en Carabayllo,"Carabayllo, Lima, Lima ",750.0,3 dormitorios,2 baños,70 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Carabayllo,"Carabayllo, Lima, Lima ",600.0,2 dormitorios,1 baño,65 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Alborada Ii Etapa,"Ur. La Alborada Ii Etapa, Comas, Lima, Lima ",800.0,3 dormitorios,1 baño,60 m²,2008,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Ingenieria,"Ur. Ingenieria, San Martín de Porres, Lima, Lima ",880.0,3 dormitorios,2 baños,40 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",2000.0,3 dormitorios,2 baños,75 m²,2008,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Jacaranda,"Ur. Jacaranda, San Borja, Lima, Lima ",5400.0,3 dormitorios,3 baños,250 m²,1972,304.0,Casa,Alquiler
+Casa en alquiler en Piura,"Piura, Piura, Piura ",2500.0,4 dormitorios,2 baños,180 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3000.0,3 dormitorios,2 baños,125 m²,1998,470.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2200.0,1 dormitorio,1 baño,55 m²,2008,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",4500.0,2 dormitorios,3 baños,183 m²,2022,477.0,Apartamento,Alquiler
+Casa en alquiler en Sachaca,"Sachaca, Arequipa, Arequipa ",3500.0,3 dormitorios,4 baños,800 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Ur. Valle Hermoso Este,"Ur. Valle Hermoso Este, Santiago de Surco, Lima, Lima ",5700.0,4 dormitorios,3 baños,280 m²,1993,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2070.0,2 dormitorios,2 baños,60 m²,2010,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3000.0,3 dormitorios,4 baños,120 m²,2017,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3000.0,3 dormitorios,4 baños,120 m²,2017,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3000.0,3 dormitorios,4 baños,120 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Punta Negra,"Punta Negra, Lima, Lima ",1450.0,2 dormitorios,2 baños,46 m²,2023,260.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Ines,"Ur. Santa Ines, San Isidro, Lima, Lima ",4500.0,3 dormitorios,3 baños,175 m²,2014,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Cesar Etapa I,"Ur. San Cesar Etapa I, La Molina, Lima, Lima ",3600.0,2 dormitorios,3 baños,124 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",1700.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa Iv,"Ur. Maranga Etapa Iv, San Miguel, Lima, Lima ",1600.0,2 dormitorios,1 baño,90 m²,2020,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",1750.0,2 dormitorios,1 baño,88 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Totorita,"Ah. Totorita, Rimac, Lima, Lima ",1100.0,2 dormitorios,1 baño,51 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Rimac,"Rimac, Lima, Lima ",1500.0,2 dormitorios,2 baños,65 m²,2022,145.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Derby,"Ur. El Derby, Santiago de Surco, Lima, Lima ",2250.0,2 dormitorios,2 baños,70 m²,2023,250.0,Apartamento,Alquiler
+Casa en alquiler en Ur. San Joaquin,"Ur. San Joaquin, Bellavista, Callao, Callao ",6800.0,4 dormitorios,4 baños,500 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. El Derby,"Ur. El Derby, Santiago de Surco, Lima, Lima ",2250.0,2 dormitorios,2 baños,70 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",2850.0,3 dormitorios,2 baños,100 m²,2006,400.0,Apartamento,Alquiler
+Apartamento en alquiler en La Victoria,"La Victoria, Lima, Lima ",2400.0,2 dormitorios,2 baños,60 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en La Victoria,"La Victoria, Lima, Lima ",1700.0,1 dormitorio,1 baño,36 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3213.0,2 dormitorios,3 baños,125 m²,1990,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Cerro Colorado,"Cerro Colorado, Arequipa, Arequipa ",1900.0,3 dormitorios,4 baños,108 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Pueblo Libre, Lima, Lima ",2300.0,2 dormitorios,2 baños,70 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Limatambo,"Ur. Limatambo, San Isidro, Lima, Lima ",3400.0,2 dormitorios,2 baños,86 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Recaudadores,"Ur. Los Recaudadores, Ate, Lima, Lima ",2200.0,3 dormitorios,2 baños,85 m²,2000,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Sd. S/N,"Sd. S/N, Magdalena del Mar, Lima, Lima ",2970.0,3 dormitorios,3 baños,106 m²,2022,470.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",2250.0,3 dormitorios,2 baños,80 m²,2012,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa Iii,"Ur. Maranga Etapa Iii, San Miguel, Lima, Lima ",1400.0,2 dormitorios,1 baño,70 m²,2013,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",3300.0,1 dormitorio,1 baño,120 m²,2018,304.0,Apartamento,Alquiler
+Casa en alquiler en Santa Cruz de Flores,"Santa Cruz de Flores, Cañete, Lima ",3000.0,4 dormitorios,5 baños,"1,400 m²",2020,400.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",4350.0,2 dormitorios,3 baños,121 m²,2022,420.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Derby,"Ur. El Derby, Santiago de Surco, Lima, Lima ",2100.0,1 dormitorio,2 baños,45 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Eduardo,"Ur. San Eduardo, Chiclayo, Chiclayo, Lambayeque ",1750.0,2 dormitorios,1 baño,88 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. S/N,"Ur. S/N, Lince, Lima, Lima ",1800.0,2 dormitorios,1 baño,65 m²,2020,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Derby,"Ur. El Derby, Santiago de Surco, Lima, Lima ",3300.0,2 dormitorios,2 baños,60 m²,2023,300.0,Apartamento,Alquiler
+Apartamento en alquiler en San Felipe,"San Felipe, Provincia de Lima, Provincia de Lima ",3000.0,2 dormitorios,3 baños,126 m²,2016,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. S/N,"Ur. S/N, Lince, Lima, Lima ",1900.0,2 dormitorios,1 baño,65 m²,2020,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1950.0,2 dormitorios,2 baños,60 m²,2022,250.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Primavera,"Ur. Primavera, Magdalena del Mar, Lima, Lima ",3600.0,4 dormitorios,2 baños,80 m²,1963,1.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",3450.0,2 dormitorios,2 baños,130 m²,2022,750.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector 3,"Sector 3, Provincia de Lima, Provincia de Lima ",3900.0,3 dormitorios,2 baños,160 m²,2015,760.0,Apartamento,Alquiler
+Casa en alquiler en Ur. San Luis,"Ur. San Luis, Chiclayo, Chiclayo, Lambayeque ",1300.0,3 dormitorios,4 baños,96 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ag. La Paz,"Ag. La Paz, San Miguel, Lima, Lima ",1750.0,3 dormitorios,2 baños,80 m²,2014,235.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Felicia,"Ur. Santa Felicia, La Molina, Lima, Lima ",1440.0,1 dormitorio,1 baño,45 m²,2010,270.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",2400.0,2 dormitorios,2 baños,120 m²,2008,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",5100.0,3 dormitorios,3 baños,160 m²,2014,850.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",1650.0,1 dormitorio,1 baño,46 m²,2012,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2700.0,2 dormitorios,2 baños,100 m²,2012,690.0,Apartamento,Alquiler
+Casa en alquiler en Miraflores,"Miraflores, Lima, Lima ",3900.0,5 dormitorios,3 baños,500 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, San Borja, Lima, Lima ",4350.0,3 dormitorios,2 baños,192 m²,2013,850.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Lambayeque ",2000.0,3 dormitorios,3 baños,110 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2000.0,1 dormitorio,1 baño,52 m²,1971,220.0,Apartamento,Alquiler
+Casa en alquiler en Ica,"Ica, Ica, Ica ",1499.0,3 dormitorios,2 baños,97 m²,2018,304.0,Casa,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Lima, Lima ",1900.0,2 dormitorios,1 baño,62 m²,2015,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",1350.0,2 dormitorios,1 baño,86 m²,2010,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Los Jazmines Del Naranjal,"Ah. Los Jazmines Del Naranjal, Los Olivos, Lima, Lima ",1150.0,2 dormitorios,1 baño,85 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Parque Internacional De Industria Y Comercio,"Ur. Parque Internacional De Industria Y Comercio, Callao, Callao, Callao ",1500.0,2 dormitorios,2 baños,60 m²,2015,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Cahuache,"Ur. Cahuache, San Luis, Lima, Lima ",2500.0,3 dormitorios,1 baño,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",1890.0,1 dormitorio,1 baño,60 m²,2000,290.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Santa Maria - Iii Etapa,"Ur. Santa Maria - Iii Etapa, Trujillo, Trujillo, La Libertad ",3900.0,4 dormitorios,3 baños,430 m²,2005,1.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Cedros De Villa Etapa Viii,"Ur. Los Cedros De Villa Etapa Viii, Chorrillos, Lima, Lima ",1750.0,3 dormitorios,2 baños,100 m²,1995,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Residencial Valle Hermoso,"Urb Residencial Valle Hermoso, Provincia de Lima, Provincia de Lima ",3000.0,3 dormitorios,4 baños,175 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",7470.0,3 dormitorios,3 baños,240 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",2700.0,2 dormitorios,2 baños,68 m²,2021,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Huanchaco,"Huanchaco, Trujillo, La Libertad ",1900.0,3 dormitorios,2 baños,102 m²,2015,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",1941.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb la Calera de Monterrico,"Urb la Calera de Monterrico, Provincia de Lima, Provincia de Lima ",2200.0,3 dormitorios,2 baños,75 m²,2010,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Magnolias,"Ur. Las Magnolias, Santiago de Surco, Lima, Lima ",2850.0,3 dormitorios,3 baños,126 m²,2019,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2250.0,2 dormitorios,2 baños,64 m²,2016,259.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, Lince, Lima, Lima ",1900.0,1 dormitorio,1 baño,64 m²,2008,211.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2200.0,1 dormitorio,1 baño,45 m²,2002,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1000.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Cercado Cuadrado,"Ur. Cercado Cuadrado, Chiclayo, Chiclayo, Lambayeque ",2000.0,3 dormitorios,3 baños,110 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Ines,"Ur. Santa Ines, San Isidro, Lima, Lima ",5400.0,3 dormitorios,2 baños,255 m²,1989,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. Nuevo Lurin Iv Etapa,"Ah. Nuevo Lurin Iv Etapa, Lurin, Lima, Lima ",1350.0,2 dormitorios,1 baño,60 m²,2016,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Nuevo Chorrillos,"Ur. Nuevo Chorrillos, Chorrillos, Lima, Lima ",3200.0,3 dormitorios,2 baños,107 m²,2022,1.0,Casa,Alquiler
+Apartamento en alquiler en Ah. Nuevo Lurin I Etapa,"Ah. Nuevo Lurin I Etapa, Lurin, Lima, Lima ",900.0,1 dormitorio,1 baño,21 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Residencial (San Demetrio De Monterrico),"Ur. Valle Hermoso Residencial (San Demetrio De Monterrico), Santiago de Surco, Lima, Lima ",3000.0,3 dormitorios,2 baños,145 m²,2008,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",3150.0,2 dormitorios,2 baños,110 m²,2011,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2250.0,2 dormitorios,2 baños,70 m²,2020,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Capilla (U-3),"Ur. La Capilla (U-3), La Molina, Lima, Lima ",2550.0,4 dormitorios,4 baños,164 m²,1999,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Beatriz,"Ur. Santa Beatriz, Lima, Lima, Lima ",2200.0,2 dormitorios,2 baños,69 m²,2014,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb la Viñita,"Urb la Viñita, Provincia de Lima, Provincia de Lima ",2400.0,2 dormitorios,2 baños,82 m²,2017,270.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",3300.0,3 dormitorios,3 baños,155 m²,2014,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",6000.0,9 dormitorios,4 baños,300 m²,1993,304.0,Casa,Alquiler
+Apartamento en alquiler en As. Apu,"As. Apu, Los Olivos, Lima, Lima ",1200.0,2 dormitorios,1 baño,80 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Mariscal Castilla,"Ur. Mariscal Castilla, San Borja, Lima, Lima ",2400.0,3 dormitorios,4 baños,129 m²,2013,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Lima,"Lima, Lima, Lima ",1100.0,2 dormitorios,1 baño,50 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Villa Jardin,"Ur. Villa Jardin, San Luis, Lima, Lima ",1580.0,2 dormitorios,1 baño,70 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, Lince, Lima, Lima ",2700.0,2 dormitorios,2 baños,91 m²,2003,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Miraflores, Lima, Lima ",3300.0,3 dormitorios,2 baños,120 m²,2022,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2160.0,1 dormitorio,2 baños,58 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Bellavista,"Bellavista, Callao, Callao ",1600.0,3 dormitorios,2 baños,67 m²,2023,130.0,Apartamento,Alquiler
+Casa en alquiler en Ah. Los Perales,"Ah. Los Perales, Santa Anita, Lima, Lima ",3500.0,5 dormitorios,3 baños,122 m²,2000,304.0,Casa,Alquiler
+Casa de playa en alquiler en Lurin,"Lurin, Lima, Lima ",2550.0,5 dormitorios,4 baños,200 m²,2013,304.0,Casa de playa,Alquiler
+Apartamento en alquiler en Pj. Tomasa Tito Condemayta,"Pj. Tomasa Tito Condemayta, Miraflores, Arequipa, Arequipa ",3200.0,2 dormitorios,2 baños,135 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",3720.0,2 dormitorios,3 baños,151 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Santa Cruz, Provincia de Lima, Provincia de Lima ",4050.0,2 dormitorios,2 baños,115 m²,2022,620.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",7800.0,3 dormitorios,2 baños,250 m²,2006,915.0,Apartamento,Alquiler
+Apartamento en alquiler en La Victoria,"La Victoria, Lima, Lima ",2300.0,2 dormitorios,1 baño,65 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Miraflores, Arequipa, Arequipa ",3000.0,1 dormitorio,1 baño,62 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Victor Larco Herrera,"Victor Larco Herrera, Trujillo, Libertad ",2800.0,3 dormitorios,3 baños,152 m²,2005,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",1800.0,1 dormitorio,1 baño,72 m²,2008,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector Sur,"Sector Sur, Víctor Larco Herrera, Trujillo, La Libertad ",1000.0,2 dormitorios,1 baño,55 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2700.0,1 dormitorio,1 baño,90 m²,2013,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",2700.0,2 dormitorios,2 baños,62 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",1800.0,1 dormitorio,1 baño,50 m²,2023,200.0,Apartamento,Alquiler
+Casa de playa en alquiler en Paracas,"Paracas, Pisco, Ica ",300.0,4 dormitorios,4 baños,140 m²,2010,1.0,Casa de playa,Alquiler
+Apartamento en alquiler en As. Los Rosales,"As. Los Rosales, La Molina, Lima, Lima ",2000.0,3 dormitorios,1 baño,78 m²,2003,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Gardenias,"Ur. Las Gardenias, Santiago de Surco, Lima, Lima ",1650.0,1 dormitorio,1 baño,40 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2900.0,2 dormitorios,3 baños,93 m²,2028,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2100.0,2 dormitorios,2 baños,82 m²,2010,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa V,"Ur. Maranga Etapa V, San Miguel, Lima, Lima ",2500.0,3 dormitorios,2 baños,76 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Ines,"Ur. Santa Ines, San Isidro, Lima, Lima ",9000.0,3 dormitorios,3 baños,330 m²,1998,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Cercado de Miraflores,"Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",3600.0,4 dormitorios,3 baños,200 m²,2022,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",7500.0,4 dormitorios,4 baños,260 m²,2015,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",7800.0,3 dormitorios,3 baños,202 m²,2018,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Javier Prado (Cahuache),"Ur. Javier Prado (Cahuache), San Borja, Lima, Lima ",2700.0,2 dormitorios,2 baños,170 m²,2008,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Pedregal De Higuereta(San Atanacio De Pedregal),"Ur. Pedregal De Higuereta(San Atanacio De Pedregal), Surquillo, Lima, Lima ",2600.0,2 dormitorios,2 baños,72 m²,2005,100.0,Apartamento,Alquiler
+Casa en alquiler en San Bartolo,"San Bartolo, Lima, Lima ",2000.0,3 dormitorios,3 baños,512 m²,2020,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",3900.0,1 dormitorio,2 baños,104 m²,2018,350.0,Apartamento,Alquiler
+Local Comercial en alquiler en Callería,"Callería, Coronel Portillo, Ucayali ",3800.0,2 dormitorios,1 baño,140 m²,2000,304.0,Local Comercial,Alquiler
+Apartamento en alquiler en Bellavista,"Bellavista, Callao, Callao ",1650.0,3 dormitorios,2 baños,67 m²,2022,140.0,Apartamento,Alquiler
+Apartamento en alquiler en Ba. Del Medico,"Ba. Del Medico, Surquillo, Lima, Lima ",2700.0,3 dormitorios,2 baños,75 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3600.0,3 dormitorios,2 baños,160 m²,1997,540.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",2800.0,3 dormitorios,3 baños,83 m²,2020,265.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",2300.0,1 dormitorio,1 baño,41 m²,2021,190.0,Apartamento,Alquiler
+Casa en alquiler en San Borja,"San Borja, Lima, Lima ",7200.0,4 dormitorios,3 baños,301 m²,1988,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",3600.0,2 dormitorios,4 baños,150 m²,2000,650.0,Apartamento,Alquiler
+Casa en alquiler en Punta Hermosa,"Punta Hermosa, Lima, Lima ",2000.0,3 dormitorios,3 baños,512 m²,2020,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. El Rosal,"Ur. El Rosal, Miraflores, Lima, Lima ",3000.0,2 dormitorios,3 baños,106 m²,2016,495.0,Apartamento,Alquiler
+Apartamento en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",1050.0,3 dormitorios,1 baño,70 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, Santiago de Surco, Lima, Lima ",5000.0,3 dormitorios,3 baños,135 m²,2020,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",4800.0,3 dormitorios,2 baños,144 m²,1982,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Javier Prado (Cahuache),"Ur. Javier Prado (Cahuache), San Borja, Lima, Lima ",5100.0,9 dormitorios,9 baños,200 m²,2012,304.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2850.0,3 dormitorios,2 baños,119 m²,2012,370.0,Apartamento,Alquiler
+Casa en alquiler en Cajamarca,"Cajamarca, Cajamarca, Cajamarca ",5600.0,8 dormitorios,4 baños,205 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Juan Sector A,"Ur. San Juan Sector A, San Juan de Miraflores, Lima, Lima ",1700.0,4 dormitorios,3 baños,80 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en San Bartolo,"San Bartolo, Lima, Lima ",3300.0,3 dormitorios,3 baños,180 m²,2020,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",4200.0,3 dormitorios,4 baños,210 m²,2015,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Surco,"Surco, Santiago De Surco, Lima, Lima ",3750.0,3 dormitorios,3 baños,150 m²,2010,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Zona 7-B,"Zona 7-B, Urb San Borja, Provincia de Lima, Provincia de Lima ",2370.0,3 dormitorios,3 baños,150 m²,2022,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",2500.0,2 dormitorios,3 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Piura,"Piura, Piura, Piura ",3600.0,4 dormitorios,4 baños,300 m²,2010,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Tambo De Monterrico,"Ur. Tambo De Monterrico, Santiago de Surco, Lima, Lima ",2250.0,1 dormitorio,1 baño,77 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en El Palomar,"El Palomar, Provincia de Lima, Provincia de Lima ",2400.0,2 dormitorios,1 baño,70 m²,1995,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Chacra Rios Sur,"Chacra Rios Sur, Provincia de Lima, Provincia de Lima ",1746.0,3 dormitorios,2 baños,69 m²,2017,304.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. Los Cedros De Villa Etapa I,"Ur. Los Cedros De Villa Etapa I, Chorrillos, Lima, Lima ",700.0,1 dormitorio,1 baño,20 m²,2000,304.0,Habitación,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",1950.0,3 dormitorios,3 baños,165 m²,2010,800.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2850.0,3 dormitorios,3 baños,100 m²,2010,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2850.0,1 dormitorio,2 baños,140 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Linda Vista De Monterrico,"Ur. Linda Vista De Monterrico, Ate, Lima, Lima ",2200.0,3 dormitorios,2 baños,95 m²,2014,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Castilla,"Castilla, Piura, Piura ",3000.0,3 dormitorios,2 baños,100 m²,2015,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Miramar,"Ur. Miramar, San Miguel, Lima, Lima ",3000.0,3 dormitorios,3 baños,125 m²,2019,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Miramar,"Ur. Miramar, San Miguel, Lima, Lima ",1900.0,3 dormitorios,2 baños,62 m²,1999,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",3500.0,3 dormitorios,3 baños,95 m²,2008,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2100.0,1 dormitorio,1 baño,41 m²,2023,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Petit Jean Ocharán,"Petit Jean Ocharán, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2100.0,1 dormitorio,2 baños,60 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2790.0,2 dormitorios,3 baños,130 m²,2018,530.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",3900.0,2 dormitorios,2 baños,154 m²,2015,680.0,Apartamento,Alquiler
+Apartamento en alquiler en Zona 7-B,"Zona 7-B, Urb San Borja, Provincia de Lima, Provincia de Lima ",2900.0,3 dormitorios,3 baños,150 m²,2022,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Lurigancho,"Lurigancho, Lima, Lima ",1110.0,3 dormitorios,2 baños,85 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2700.0,2 dormitorios,3 baños,180 m²,1990,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Avitentel (Entel Peru),"Ur. Avitentel (Entel Peru), San Juan de Miraflores, Lima, Lima ",1500.0,3 dormitorios,2 baños,98 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2370.0,2 dormitorios,3 baños,63 m²,2010,210.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Tambo De Monterrico,"Ur. Tambo De Monterrico, Santiago de Surco, Lima, Lima ",2400.0,2 dormitorios,2 baños,72 m²,2013,260.0,Apartamento,Alquiler
+Apartamento en alquiler en El Bosque,"El Bosque, Cayma, Arequipa, Arequipa ",4800.0,3 dormitorios,5 baños,250 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",7500.0,3 dormitorios,4 baños,200 m²,2020,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Parque Internacional De Industria Y Comercio,"Ur. Parque Internacional De Industria Y Comercio, Callao, Callao, Callao ",1300.0,2 dormitorios,2 baños,69 m²,2013,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",3100.0,3 dormitorios,3 baños,103 m²,2013,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Capilla (U-2),"Ur. La Capilla (U-2), La Molina, Lima, Lima ",1400.0,2 dormitorios,2 baños,50 m²,1998,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",3600.0,3 dormitorios,2 baños,150 m²,2017,670.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",6000.0,3 dormitorios,2 baños,175 m²,2004,840.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",3000.0,2 dormitorios,3 baños,106 m²,2010,575.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Pueblo Libre, Lima, Lima ",2200.0,3 dormitorios,2 baños,112 m²,2011,174.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",3750.0,3 dormitorios,2 baños,150 m²,1990,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Surquillo, Lima, Lima ",2800.0,2 dormitorios,2 baños,78 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Portales De Javier Prado Etapa Ii,"Ur. Los Portales De Javier Prado Etapa Ii, Ate, Lima, Lima ",1400.0,2 dormitorios,2 baños,75 m²,2017,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Monterrico Norte,"Ur. Monterrico Norte, San Borja, Lima, Lima ",3450.0,3 dormitorios,3 baños,139 m²,2022,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, San Borja, Lima, Lima ",3450.0,3 dormitorios,3 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",1410.0,2 dormitorios,1 baño,45 m²,2023,304.0,Apartamento,Alquiler
+Casa en alquiler en Cayma,"Cayma, Arequipa, Arequipa ",3000.0,3 dormitorios,3 baños,165 m²,2010,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Ignacio,"Ur. San Ignacio, Barranco, Lima, Lima ",2310.0,1 dormitorio,1 baño,45 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Miraflores, Lima, Lima ",2550.0,2 dormitorios,1 baño,73 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Libertad,"Ur. Libertad, San Miguel, Lima, Lima ",2400.0,3 dormitorios,2 baños,88 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",7500.0,3 dormitorios,2 baños,158 m²,2014,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2400.0,2 dormitorios,1 baño,47 m²,1983,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Residencial Valle Hermoso,"Urb Residencial Valle Hermoso, Provincia de Lima, Municipalidad Metropolitana de Lima ",3000.0,3 dormitorios,4 baños,175 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Res Villa Militar,"Res Villa Militar, Tacna, Tacna ",900.0,2 dormitorios,1 baño,75 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3900.0,2 dormitorios,3 baños,154 m²,2018,680.0,Apartamento,Alquiler
+Casa en alquiler en La Banda de Shilcayo,"La Banda de Shilcayo, San Martín, San Martín ",3800.0,4 dormitorios,5 baños,200 m²,2022,304.0,Casa,Alquiler
+Casa de playa en alquiler en Punta Hermosa,"Punta Hermosa, Lima, Lima ",3000.0,3 dormitorios,3 baños,126 m²,2020,450.0,Casa de playa,Alquiler
+Apartamento en alquiler en Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero),"Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero), Santiago de Surco, Lima, Lima ",3600.0,3 dormitorios,3 baños,148 m²,2012,455.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",2100.0,1 dormitorio,1 baño,54 m²,2019,370.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero),"Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero), Santiago de Surco, Lima, Lima ",3600.0,3 dormitorios,2 baños,150 m²,2010,450.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",3300.0,2 dormitorios,3 baños,127 m²,2018,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,3 dormitorios,2 baños,190 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",4800.0,2 dormitorios,3 baños,104 m²,2005,635.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Corpac,"Ur. Corpac, San Isidro, Lima, Lima ",2250.0,3 dormitorios,2 baños,134 m²,2000,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Arboleda De Maranga,"Ur. Arboleda De Maranga, San Miguel, Lima, Lima ",1437.0,3 dormitorios,3 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1950.0,1 dormitorio,1 baño,42 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Señorial,"Urb Señorial, Arequipa, Arequipa ",1750.0,3 dormitorios,3 baños,105 m²,2020,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Palomar,"Ur. El Palomar, San Isidro, Lima, Lima ",7800.0,4 dormitorios,5 baños,351 m²,1958,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Eduardo,"Ur. San Eduardo, Chiclayo, Chiclayo, Lambayeque ",2200.0,2 dormitorios,2 baños,120 m²,2022,230.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. A. Cabrejos Falla,"Ur. A. Cabrejos Falla, Chiclayo, Chiclayo, Lambayeque ",3000.0,3 dormitorios,4 baños,145 m²,2022,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",1860.0,1 dormitorio,1 baño,49 m²,1998,350.0,Apartamento,Alquiler
+Casa en alquiler en San Isidro,"San Isidro, Lima, Lima ",5700.0,3 dormitorios,3 baños,311 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1950.0,1 dormitorio,1 baño,51 m²,2022,260.0,Apartamento,Alquiler
+Apartamento en alquiler en Magdalena del Mar,"Magdalena del Mar, Lima, Lima ",2940.0,3 dormitorios,2 baños,126 m²,2014,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora Este,"Ur. Aurora Este, Surquillo, Lima, Lima ",3300.0,4 dormitorios,3 baños,160 m²,2013,300.0,Apartamento,Alquiler
+Habitación en alquiler en Castilla,"Castilla, Piura, Piura ",345.0,3 dormitorios,2 baños,8 m²,2016,304.0,Habitación,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",3500.0,3 dormitorios,3 baños,125 m²,2010,614.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Huaca,"Ur. La Huaca, La Perla, Callao, Callao ",1500.0,3 dormitorios,2 baños,57 m²,2017,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Lima, Lima ",1900.0,1 dormitorio,1 baño,44 m²,2018,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Calera De Monterrico,"Ur. La Calera De Monterrico, Surquillo, Lima, Lima ",2400.0,3 dormitorios,2 baños,75 m²,2017,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",2200.0,2 dormitorios,3 baños,80 m²,2012,304.0,Apartamento,Alquiler
+Casa en alquiler en Sd. Aeropuerto De Collique,"Sd. Aeropuerto De Collique, Comas, Lima, Lima ",3200.0,4 dormitorios,2 baños,140 m²,1980,304.0,Casa,Alquiler
+Apartamento en alquiler en Comas,"Comas, Lima, Lima ",1500.0,3 dormitorios,2 baños,102 m²,2022,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Chasquis Iii Etapa,"Ur. Los Chasquis Iii Etapa, Comas, Lima, Lima ",1350.0,3 dormitorios,2 baños,76 m²,2020,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2190.0,2 dormitorios,3 baños,117 m²,2005,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Los Frutales,"Los Frutales, Arequipa, Arequipa, Arequipa ",2000.0,1 dormitorio,1 baño,71 m²,2020,238.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Manuel Prado,"Ur. Manuel Prado, Paucarpata, Arequipa, Arequipa ",2700.0,5 dormitorios,5 baños,210 m²,2020,60.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Andenes,"Ur. Los Andenes, Cayma, Arequipa, Arequipa ",2200.0,3 dormitorios,3 baños,145 m²,2022,150.0,Apartamento,Alquiler
+Casa en alquiler en As. Virgen Del Rosario,"As. Virgen Del Rosario, Comas, Lima, Lima ",3500.0,4 dormitorios,3 baños,195 m²,2003,304.0,Casa,Alquiler
+Apartamento en alquiler en Yanahuara,"Yanahuara, Arequipa, Arequipa ",2100.0,4 dormitorios,2 baños,110 m²,2016,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",2900.0,2 dormitorios,2 baños,62 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",3900.0,3 dormitorios,3 baños,190 m²,2015,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Barboncito,"Ur. Barboncito, Miraflores, Lima, Lima ",2370.0,2 dormitorios,2 baños,65 m²,2013,240.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Cortijo Etapa I,"Ur. El Cortijo Etapa I, Santiago de Surco, Lima, Lima ",7500.0,5 dormitorios,7 baños,360 m²,2015,1.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",999.0,1 dormitorio,1 baño,20 m²,2000,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2100.0,2 dormitorios,2 baños,90 m²,2013,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3750.0,3 dormitorios,4 baños,160 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Chiclayo,"Chiclayo, Lambayeque ",2100.0,3 dormitorios,2 baños,130 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",3900.0,4 dormitorios,3 baños,220 m²,1980,100.0,Casa,Alquiler
+Apartamento en alquiler en As. La Era,"As. La Era, Lurigancho, Lima, Lima ",1000.0,3 dormitorios,2 baños,67 m²,2017,110.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Totoral,"Ur. El Totoral, Santiago de Surco, Lima, Lima ",2000.0,3 dormitorios,1 baño,90 m²,2018,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Parque San Martin,"Ur. Parque San Martin, Pueblo Libre, Lima, Lima ",2600.0,3 dormitorios,2 baños,85 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Humboldt,"Ur. Humboldt, Miraflores, Lima, Lima ",2700.0,3 dormitorios,4 baños,100 m²,2013,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Jose (Santa Cecilia),"Ur. San Jose (Santa Cecilia), Bellavista, Callao, Callao ",1450.0,2 dormitorios,2 baños,65 m²,2023,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Jose (Santa Cecilia),"Ur. San Jose (Santa Cecilia), Bellavista, Callao, Callao ",1350.0,2 dormitorios,1 baño,50 m²,2023,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jardin,"Ur. Jardin, San Isidro, Lima, Lima ",3000.0,2 dormitorios,2 baños,72 m²,2021,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3000.0,2 dormitorios,2 baños,100 m²,2014,575.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Rosa De Surco,"Ur. Santa Rosa De Surco, Santiago de Surco, Lima, Lima ",2800.0,4 dormitorios,4 baños,120 m²,2014,100.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",5700.0,5 dormitorios,5 baños,186 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3750.0,4 dormitorios,3 baños,200 m²,2003,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Rosales Ampliacion Etapa Ii,"Ur. Los Rosales Ampliacion Etapa Ii, Santiago de Surco, Lima, Lima ",2300.0,3 dormitorios,3 baños,118 m²,1992,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb San Luis,"Urb San Luis, Provincia de Lima, Provincia de Lima ",2550.0,2 dormitorios,2 baños,75 m²,2017,330.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Barranco, Lima, Lima ",2100.0,1 dormitorio,1 baño,57 m²,2014,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",5040.0,2 dormitorios,2 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. 28 De Julio,"Ur. 28 De Julio, Pueblo Libre, Lima, Lima ",1650.0,2 dormitorios,1 baño,110 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Calera De La Merced,"Ur. La Calera De La Merced, Surquillo, Lima, Lima ",2400.0,3 dormitorios,2 baños,75 m²,2022,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2550.0,3 dormitorios,3 baños,135 m²,2000,430.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",2040.0,3 dormitorios,2 baños,100 m²,2022,236.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",9000.0,3 dormitorios,3 baños,225 m²,2022,950.0,Apartamento,Alquiler
+Casa en alquiler en Los Alamos,"Los Alamos, Arequipa, Arequipa, Arequipa ",3500.0,5 dormitorios,4 baños,200 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Isabel B,"Ur. Chacarilla Santa Cruz Zona Santa Isabel B, San Isidro, Lima, Lima ",4500.0,3 dormitorios,4 baños,162 m²,2021,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Confraternidad,"Urb Confraternidad, Provincia de Lima, Provincia de Lima ",3000.0,1 dormitorio,2 baños,91 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Cesar Etapa I,"Ur. San Cesar Etapa I, La Molina, Lima, Lima ",1800.0,2 dormitorios,1 baño,40 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2300.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,3 baños,113 m²,2022,503.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Gardenias,"Ur. Las Gardenias, Santiago de Surco, Lima, Lima ",1650.0,1 dormitorio,1 baño,40 m²,2000,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Pj. Mirones Bajo,"Pj. Mirones Bajo, Lima, Lima, Lima ",2200.0,2 dormitorios,2 baños,150 m²,1993,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Derby,"Ur. El Derby, Santiago de Surco, Lima, Lima ",6000.0,4 dormitorios,5 baños,300 m²,2018,1.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1250.0,1 dormitorio,1 baño,25 m²,2022,304.0,Habitación,Alquiler
+Habitación en alquiler en Zona 7-B,"Zona 7-B, Urb San Borja, Provincia de Lima, Provincia de Lima ",800.0,1 dormitorio,1 baño,20 m²,2012,304.0,Habitación,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3300.0,3 dormitorios,3 baños,111 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3900.0,2 dormitorios,2 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Oeste,"Ur. Valle Hermoso Oeste, Santiago de Surco, Lima, Lima ",3750.0,3 dormitorios,3 baños,166 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, San Isidro, Lima, Lima ",3000.0,3 dormitorios,3 baños,99 m²,2015,400.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",7500.0,4 dormitorios,3 baños,283 m²,1998,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3300.0,2 dormitorios,2 baños,112 m²,2013,1.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Huertizacion Progreso La Estrella,"As. Huertizacion Progreso La Estrella, Ate, Lima, Lima ",1550.0,3 dormitorios,3 baños,129 m²,2011,1.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Granados,"Ur. Los Granados, Santiago de Surco, Lima, Lima ",9000.0,4 dormitorios,2 baños,486 m²,2000,1.0,Casa,Alquiler
+Casa en alquiler en Ur. Santa Ines,"Ur. Santa Ines, Trujillo, Trujillo, La Libertad ",6500.0,4 dormitorios,5 baños,300 m²,1983,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",2700.0,1 dormitorio,2 baños,95 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Corpac,"Ur. Corpac, San Isidro, Lima, Lima ",2000.0,1 dormitorio,1 baño,51 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",3000.0,2 dormitorios,2 baños,70 m²,2023,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,90 m²,2010,370.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Santa Cruz De Nuevo Vitarte,"As. Santa Cruz De Nuevo Vitarte, Ate, Lima, Lima ",1800.0,3 dormitorios,1 baño,180 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Limatambo,"Ur. Limatambo, Surquillo, Lima, Lima ",2200.0,3 dormitorios,2 baños,66 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",1750.0,3 dormitorios,2 baños,105 m²,2002,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3300.0,3 dormitorios,2 baños,100 m²,2021,470.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3000.0,2 dormitorios,2 baños,98 m²,2006,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Rosario,"Ur. El Rosario, San Isidro, Lima, Lima ",6600.0,3 dormitorios,2 baños,210 m²,2010,750.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",1875.0,2 dormitorios,1 baño,60 m²,2019,130.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector 1,"Sector 1, Provincia de Lima, Provincia de Lima ",7500.0,3 dormitorios,3 baños,267 m²,2011,750.0,Apartamento,Alquiler
+Apartamento en alquiler en Chorrillos,"Chorrillos, Lima, Lima ",4200.0,3 dormitorios,3 baños,154 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Rosario De Villa,"Ur. Rosario De Villa, Chorrillos, Lima, Lima ",1800.0,1 dormitorio,1 baño,59 m²,2023,20.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3600.0,3 dormitorios,3 baños,160 m²,2012,580.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",4800.0,3 dormitorios,2 baños,205 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3600.0,3 dormitorios,2 baños,160 m²,2012,580.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",5100.0,4 dormitorios,4 baños,210 m²,2005,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Idelfonso Del Vivero,"Ur. San Idelfonso Del Vivero, Santiago de Surco, Lima, Lima ",3300.0,3 dormitorios,2 baños,118 m²,2009,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",3000.0,2 dormitorios,2 baños,80 m²,2022,375.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Lobaton,"Ur. Lobaton, San Isidro, Lima, Lima ",3900.0,5 dormitorios,2 baños,205 m²,1983,10.0,Casa,Alquiler
+Apartamento en alquiler en Re. Monterrico Sur Ampliacion,"Re. Monterrico Sur Ampliacion, La Molina, Lima, Lima ",2800.0,3 dormitorios,2 baños,144 m²,1989,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",3000.0,2 dormitorios,2 baños,108 m²,2000,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Rosa,"Ur. Santa Rosa, San Isidro, Lima, Lima ",3270.0,3 dormitorios,2 baños,168 m²,1983,500.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Sol De La Molina Etapa Iii,"Ur. El Sol De La Molina Etapa Iii, La Molina, Lima, Lima ",4950.0,5 dormitorios,5 baños,850 m²,1986,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Humboldt,"Ur. Humboldt, Miraflores, Lima, Lima ",1500.0,1 dormitorio,1 baño,50 m²,2022,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Zarate,"Ur. Zarate, San Juan de Lurigancho, Lima, Lima ",1200.0,2 dormitorios,1 baño,59 m²,2022,40.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Beatriz,"Ur. Santa Beatriz, Lima, Lima, Lima ",2300.0,3 dormitorios,2 baños,77 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,76 m²,2009,338.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2997.0,2 dormitorios,3 baños,126 m²,2010,460.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. S/N,"Ur. S/N, Lince, Lima, Lima ",1900.0,1 dormitorio,1 baño,45 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Cerros De Camacho,"Ur. Cerros De Camacho, Santiago de Surco, Lima, Lima ",6900.0,3 dormitorios,3 baños,285 m²,2013,900.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",1500.0,2 dormitorios,1 baño,60 m²,2006,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",1950.0,2 dormitorios,1 baño,115 m²,2012,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2500.0,1 dormitorio,1 baño,44 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Maria,"Ur. Chacarilla Santa Cruz Zona Santa Maria, San Isidro, Lima, Lima ",2250.0,1 dormitorio,1 baño,55 m²,1988,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Textil Continental,"Ur. Textil Continental, Surquillo, Lima, Lima ",2500.0,3 dormitorios,2 baños,79 m²,2021,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Casuarinas Sur,"Casuarinas Sur, Provincia de Lima, Provincia de Lima ",2400.0,3 dormitorios,3 baños,150 m²,2015,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Zona 7-B,"Zona 7-B, Urb San Borja, Provincia de Lima, Provincia de Lima ",3897.0,3 dormitorios,2 baños,102 m²,2018,250.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",1350.0,1 dormitorio,1 baño,20 m²,1980,100.0,Habitación,Alquiler
+Casa en alquiler en Ur. Humboldt,"Ur. Humboldt, Miraflores, Lima, Lima ",5910.0,3 dormitorios,3 baños,230 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Eugenio,"Ur. San Eugenio, Lince, Lima, Lima ",2250.0,2 dormitorios,2 baños,71 m²,2019,300.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Rinconada Del Lago Etapa Ii,"Ur. Rinconada Del Lago Etapa Ii, La Molina, Lima, Lima ",9000.0,4 dormitorios,5 baños,650 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",2400.0,2 dormitorios,2 baños,77 m²,2007,304.0,Apartamento,Alquiler
+Casa en alquiler en Cieneguilla,"Cieneguilla, Lima, Lima ",3300.0,4 dormitorios,4 baños,"1,024 m²",2022,150.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, San Isidro, Lima, Lima ",3000.0,3 dormitorios,2 baños,110 m²,2011,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Juan Xxiii,"Ur. Juan Xxiii, San Borja, Lima, Lima ",2000.0,1 dormitorio,1 baño,75 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Portada Del Sol Etapa I (A.E.M.G),"Ur. Portada Del Sol Etapa I (A.E.M.G), La Molina, Lima, Lima ",1500.0,2 dormitorios,2 baños,80 m²,2017,304.0,Apartamento,Alquiler
+Casa en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",9000.0,3 dormitorios,2 baños,153 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Re. Las Camelias,"Re. Las Camelias, San Borja, Lima, Lima ",2100.0,3 dormitorios,2 baños,110 m²,1980,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Mariscal Caceres Sector Iii Etapa 6Ta Y 7Ma,"Ur. Mariscal Caceres Sector Iii Etapa 6Ta Y 7Ma, San Juan de Lurigancho, Lima, Lima ",1850.0,3 dormitorios,2 baños,70 m²,2016,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",2000.0,3 dormitorios,2 baños,100 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",2100.0,1 dormitorio,1 baño,45 m²,2020,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Magdalena del Mar, Lima, Lima ",2300.0,2 dormitorios,2 baños,85 m²,2015,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",2640.0,3 dormitorios,3 baños,94 m²,2010,880.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santo Domingo V Etapa,"Ur. Santo Domingo V Etapa, Carabayllo, Lima, Lima ",700.0,2 dormitorios,1 baño,55 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Mercurio Ii Etapa,"Ur. Mercurio Ii Etapa, Los Olivos, Lima, Lima ",1500.0,3 dormitorios,1 baño,65 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Miraflores, Lima, Lima ",3570.0,2 dormitorios,3 baños,121 m²,2022,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Jazmines,"Ur. Los Jazmines, Santiago de Surco, Lima, Lima ",2940.0,3 dormitorios,4 baños,126 m²,2018,500.0,Apartamento,Alquiler
+Casa en alquiler en San Borja,"San Borja, Lima, Lima ",8400.0,4 dormitorios,5 baños,550 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ba. Del Medico,"Ba. Del Medico, Surquillo, Lima, Lima ",2100.0,3 dormitorios,2 baños,71 m²,2018,220.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",4950.0,2 dormitorios,2 baños,135 m²,2015,653.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2850.0,3 dormitorios,2 baños,116 m²,2010,310.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",7497.0,2 dormitorios,2 baños,200 m²,2001,600.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. La Perla,"Ur. La Perla, La Perla, Callao, Callao ",500.0,1 dormitorio,1 baño,30 m²,2022,304.0,Habitación,Alquiler
+Apartamento en alquiler en Chacarilla del Estanque,"Chacarilla del Estanque, Provincia de Lima, Provincia de Lima ",4200.0,3 dormitorios,4 baños,185 m²,2022,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Uv. Matute,"Uv. Matute, La Victoria, Lima, Lima ",1500.0,1 dormitorio,1 baño,47 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Siglo Xx,"Ur. Siglo Xx, El Tambo, Huancayo, Junín ",1650.0,2 dormitorios,2 baños,100 m²,1998,50.0,Apartamento,Alquiler
+Casa en alquiler en Pimentel,"Pimentel, Chiclayo, Lambayeque ",5400.0,5 dormitorios,6 baños,440 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Ur. Santo Tomas,"Ur. Santo Tomas, San Borja, Lima, Lima ",5400.0,3 dormitorios,4 baños,300 m²,1995,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. El Palomar,"Ur. El Palomar, San Isidro, Lima, Lima ",3600.0,4 dormitorios,4 baños,148 m²,2011,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Victoria,"Ur. Victoria, San Isidro, Lima, Lima ",2400.0,3 dormitorios,2 baños,180 m²,2002,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",1800.0,1 dormitorio,1 baño,50 m²,2007,142.0,Apartamento,Alquiler
+Apartamento en alquiler en Chacarilla-Santa Cruz,"Chacarilla-Santa Cruz, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2850.0,2 dormitorios,2 baños,84 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2700.0,3 dormitorios,2 baños,97 m²,2009,420.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",2850.0,2 dormitorios,3 baños,165 m²,2022,500.0,Apartamento,Alquiler
+Casa en alquiler en Huaycani,"Huaycani, Sachaca, Arequipa, Arequipa ",6000.0,8 dormitorios,6 baños,266 m²,1999,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",1500.0,1 dormitorio,1 baño,42 m²,1983,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. 28 De Julio,"Ur. 28 De Julio, Pueblo Libre, Lima, Lima ",6900.0,4 dormitorios,3 baños,214 m²,1980,200.0,Casa,Alquiler
+Casa en alquiler en Mariano Melgar,"Mariano Melgar, Arequipa, Arequipa ",3200.0,4 dormitorios,4 baños,192 m²,2000,35.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Jazmines,"Ur. Los Jazmines, Santiago de Surco, Lima, Lima ",2550.0,3 dormitorios,4 baños,120 m²,2017,420.0,Apartamento,Alquiler
+Apartamento en alquiler en Piura,"Piura, Piura, Piura ",1900.0,1 dormitorio,1 baño,34 m²,2021,110.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Sagitario,"Ur. Sagitario, Santiago de Surco, Lima, Lima ",1550.0,2 dormitorios,2 baños,92 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa Ii,"Ur. Maranga Etapa Ii, San Miguel, Lima, Lima ",2300.0,2 dormitorios,3 baños,70 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Benavides Etapa I,"Ur. Benavides Etapa I, Santiago de Surco, Lima, Lima ",1900.0,2 dormitorios,1 baño,65 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",3000.0,2 dormitorios,2 baños,61 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle De Sharon,"Ur. Valle De Sharon, San Juan de Miraflores, Lima, Lima ",1200.0,2 dormitorios,1 baño,78 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Lomas De La Molina Vieja Etapa I,"Ur. Las Lomas De La Molina Vieja Etapa I, La Molina, Lima, Lima ",2450.0,3 dormitorios,3 baños,79 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",4500.0,3 dormitorios,2 baños,155 m²,2013,730.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2850.0,3 dormitorios,2 baños,95 m²,2009,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Rimac,"Rimac, Lima, Lima ",1400.0,3 dormitorios,2 baños,81 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Callao,"Callao, Callao, Callao ",1100.0,2 dormitorios,2 baños,65 m²,2018,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",2400.0,3 dormitorios,1 baño,100 m²,2020,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2700.0,2 dormitorios,2 baños,104 m²,1978,310.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",6300.0,4 dormitorios,2 baños,295 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Monica,"Ur. Santa Monica, San Isidro, Lima, Lima ",4950.0,3 dormitorios,2 baños,180 m²,1980,748.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Colegio Particular Santa Maria Etapa Ii,"Hu. Colegio Particular Santa Maria Etapa Ii, Santiago de Surco, Lima, Lima ",6600.0,4 dormitorios,4 baños,300 m²,2015,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Limatambo,"Ur. Limatambo, Surquillo, Lima, Lima ",2000.0,2 dormitorios,2 baños,76 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3570.0,3 dormitorios,3 baños,160 m²,1993,689.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Lola Ferreyros,"Ur. Lola Ferreyros, San Martín de Porres, Lima, Lima ",1550.0,3 dormitorios,2 baños,93 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Bella Luz,"Ur. Bella Luz, Santiago de Surco, Lima, Lima ",7500.0,4 dormitorios,4 baños,217 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Pj. J. Carlos Mariategui,"Pj. J. Carlos Mariategui, Chiclayo, Chiclayo, Lambayeque ",3000.0,3 dormitorios,4 baños,127 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Yanahuara,"Yanahuara, Arequipa, Arequipa ",5100.0,4 dormitorios,3 baños,220 m²,2010,304.0,Casa,Alquiler
+Apartamento en alquiler en Cayma,"Cayma, Arequipa, Arequipa ",3600.0,3 dormitorios,3 baños,110 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Confraternidad,"Urb Confraternidad, Provincia de Lima, Provincia de Lima ",1950.0,1 dormitorio,1 baño,55 m²,2018,405.0,Apartamento,Alquiler
+Apartamento en alquiler en Country Club,"Country Club, Urb San Felipe, Provincia de Lima, Provincia de Lima ",2340.0,2 dormitorios,2 baños,1 Medio baño,1975,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolima Iii Etapa,"Ur. Prolima Iii Etapa, Los Olivos, Lima, Lima ",1400.0,2 dormitorios,2 baños,110 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Feria Internacional Del Pacifico,"Hu. Feria Internacional Del Pacifico, San Miguel, Lima, Lima ",1400.0,2 dormitorios,2 baños,70 m²,2016,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Pj. San Francisco De La Tablada De Lurin Sector Segundo,"Pj. San Francisco De La Tablada De Lurin Sector Segundo, Villa María del Triunfo, Lima, Lima ",1000.0,3 dormitorios,2 baños,90 m²,2018,1.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",3300.0,1 dormitorio,1 baño,25 m²,2022,304.0,Habitación,Alquiler
+Habitación en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1200.0,1 dormitorio,1 baño,25 m²,2022,100.0,Habitación,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Miraflores, Lima, Lima ",6600.0,3 dormitorios,3 baños,332 m²,2022,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Torres De San Miguelito Etapa I,"Ur. Las Torres De San Miguelito Etapa I, San Miguel, Lima, Lima ",1800.0,2 dormitorios,2 baños,69 m²,2018,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",4500.0,3 dormitorios,3 baños,155 m²,2022,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",1950.0,2 dormitorios,2 baños,80 m²,2000,345.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2400.0,2 dormitorios,2 baños,90 m²,2010,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Roque Fap,"Ur. San Roque Fap, Santiago de Surco, Lima, Lima ",1900.0,1 dormitorio,1 baño,56 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Tacna,"Tacna, Tacna ",1350.0,2 dormitorios,1 baño,65 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Magdalena del Mar, Lima, Lima ",3000.0,3 dormitorios,2 baños,111 m²,2007,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Valle Hermoso Oeste,"Valle Hermoso Oeste, Provincia de Lima, Provincia de Lima ",7650.0,5 dormitorios,7 baños,393 m²,2010,780.0,Apartamento,Alquiler
+Apartamento en alquiler en Re. San Felipe,"Re. San Felipe, San Isidro, Lima, Lima ",3600.0,3 dormitorios,2 baños,156 m²,2022,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Gobierno Regional de Lima ",2100.0,3 dormitorios,2 baños,70 m²,2022,215.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3450.0,3 dormitorios,3 baños,155 m²,1981,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",225.0,1 dormitorio,1 baño,50 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago De Surco,"Santiago De Surco, Lima, Lima ",3850.0,3 dormitorios,3 baños,114 m²,2018,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",3300.0,2 dormitorios,2 baños,100 m²,2022,575.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Luzmila I Etapa,"Ur. Santa Luzmila I Etapa, Comas, Lima, Lima ",1400.0,3 dormitorios,2 baños,86 m²,2023,304.0,Apartamento,Alquiler
+Casa en alquiler en Retamas,"Retamas, Yanahuara, Arequipa, Arequipa ",5000.0,4 dormitorios,4 baños,330 m²,2010,170.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",9000.0,4 dormitorios,3 baños,280 m²,2016,900.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,3 dormitorios,2 baños,95 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Pinares,"Ur. Los Pinares, Los Olivos, Lima, Lima ",1250.0,2 dormitorios,2 baños,76 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",6300.0,3 dormitorios,4 baños,267 m²,2014,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2500.0,1 dormitorio,1 baño,44 m²,2021,170.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Los Rosales,"As. Los Rosales, La Molina, Lima, Lima ",1450.0,1 dormitorio,2 baños,60 m²,2022,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2700.0,3 dormitorios,2 baños,120 m²,2012,640.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Carmen,"Ur. El Carmen, Pueblo Libre, Lima, Lima ",700.0,1 dormitorio,1 baño,16 m²,2010,45.0,Apartamento,Alquiler
+Apartamento en alquiler en Arequipa,"Arequipa, Arequipa, Arequipa ",2000.0,3 dormitorios,3 baños,126 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",2550.0,3 dormitorios,3 baños,86 m²,2011,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",4050.0,3 dormitorios,3 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Sol De La Molina Etapa Iii,"Ur. El Sol De La Molina Etapa Iii, La Molina, Lima, Lima ",7500.0,4 dormitorios,4 baños,258 m²,2001,304.0,Casa,Alquiler
+Apartamento en alquiler en Urb Cercado de Miraflores,"Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",5400.0,3 dormitorios,5 baños,242 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",3000.0,3 dormitorios,2 baños,72 m²,2022,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Paraiso El Dorado Iii Etapa,"Ur. Paraiso El Dorado Iii Etapa, San Martín de Porres, Lima, Lima ",835.0,3 dormitorios,1 baño,66 m²,2015,130.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2100.0,2 dormitorios,2 baños,80 m²,2004,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Magdalena del Mar, Lima, Lima ",1419.0,1 dormitorio,1 baño,48 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Country Club,"Ur. Country Club, San Isidro, Lima, Lima ",5400.0,3 dormitorios,2 baños,240 m²,1990,304.0,Apartamento,Alquiler
+Casa de playa en alquiler en Playa San Bartolo,"Playa San Bartolo, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,3 baños,1 Medio baño,2019,300.0,Casa de playa,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2700.0,2 dormitorios,2 baños,62 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Rio Seco,"Rio Seco, Cerro Colorado, Arequipa, Arequipa ",2000.0,3 dormitorios,2 baños,110 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Cayma,"Cayma, Arequipa, Arequipa ",2550.0,3 dormitorios,2 baños,90 m²,2021,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Orrantia Del Mar Zona Iv,"Ur. Orrantia Del Mar Zona Iv, San Isidro, Lima, Lima ",6000.0,3 dormitorios,5 baños,313 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",4050.0,3 dormitorios,3 baños,214 m²,2020,450.0,Apartamento,Alquiler
+Casa en alquiler en Surco,"Surco, Santiago De Surco, Lima, Lima ",5400.0,4 dormitorios,3 baños,260 m²,1990,700.0,Casa,Alquiler
+Apartamento en alquiler en Bellavista,"Bellavista, Callao, Callao ",1400.0,2 dormitorios,1 baño,70 m²,2010,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Callao,"Callao, Callao, Callao ",1100.0,3 dormitorios,1 baño,75 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Justina,"Ur. Santa Justina, Santiago de Surco, Lima, Lima ",4200.0,3 dormitorios,4 baños,190 m²,2014,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",3300.0,2 dormitorios,3 baños,104 m²,2020,520.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",999.0,1 dormitorio,1 baño,20 m²,2000,55.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector 3,"Sector 3, Provincia de Lima, Provincia de Lima ",4050.0,3 dormitorios,2 baños,214 m²,2001,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Laura,"Ur. Santa Laura, Chorrillos, Lima, Lima ",1600.0,1 dormitorio,1 baño,37 m²,2015,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3900.0,3 dormitorios,3 baños,160 m²,2022,720.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Miramar,"Ur. Miramar, San Miguel, Lima, Lima ",2000.0,2 dormitorios,2 baños,60 m²,2022,160.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Libertad,"Ur. Libertad, San Miguel, Lima, Lima ",2000.0,2 dormitorios,2 baños,60 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Luz,"Ur. La Luz, Lima, Lima, Lima ",2200.0,2 dormitorios,1 baño,70 m²,2021,1.0,Apartamento,Alquiler
+Casa en alquiler en Co. La Molina Real,"Co. La Molina Real, La Molina, Lima, Lima ",6600.0,5 dormitorios,5 baños,280 m²,2013,600.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",2250.0,1 dormitorio,1 baño,70 m²,2022,225.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",1800.0,2 dormitorios,1 baño,100 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Humboldt,"Ur. Humboldt, Miraflores, Lima, Lima ",5100.0,4 dormitorios,3 baños,360 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Monte Carmelo,"Ur. Monte Carmelo, La Victoria, Lima, Lima ",2500.0,3 dormitorios,2 baños,125 m²,1982,200.0,Apartamento,Alquiler
+Apartamento en alquiler en San Miguel,"San Miguel, Lima, Lima ",2400.0,3 dormitorios,2 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Alameda,"Ur. La Alameda, Santiago de Surco, Lima, Lima ",1860.0,2 dormitorios,2 baños,95 m²,1990,130.0,Apartamento,Alquiler
+Casa en alquiler en Surquillo,"Surquillo, Lima, Lima ",7200.0,7 dormitorios,5 baños,180 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Rimac,"Rimac, Lima, Lima ",1050.0,2 dormitorios,1 baño,58 m²,2021,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3200.0,2 dormitorios,3 baños,86 m²,2019,400.0,Apartamento,Alquiler
+Apartamento en alquiler en San Miguel,"San Miguel, Lima, Lima ",1200.0,1 dormitorio,1 baño,38 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. San Hilarion,"Ah. San Hilarion, San Juan de Lurigancho, Lima, Lima ",650.0,1 dormitorio,1 baño,45 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. San Hilarion,"Ah. San Hilarion, San Juan de Lurigancho, Lima, Lima ",650.0,1 dormitorio,1 baño,45 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",3300.0,2 dormitorios,2 baños,126 m²,2017,530.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Juan Bautista De Chorrillos,"Ur. San Juan Bautista De Chorrillos, Chorrillos, Lima, Lima ",1200.0,1 dormitorio,1 baño,40 m²,1995,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2400.0,1 dormitorio,2 baños,83 m²,2019,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Casuarinas Sur,"Ur. Casuarinas Sur, Santiago de Surco, Lima, Lima ",2250.0,3 dormitorios,2 baños,115 m²,2014,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",5640.0,3 dormitorios,2 baños,235 m²,2008,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb las Gardenias Etapa 1,"Urb las Gardenias Etapa 1, Provincia de Lima, Provincia de Lima ",4500.0,7 dormitorios,3 baños,180 m²,2020,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",3450.0,3 dormitorios,4 baños,135 m²,2014,520.0,Apartamento,Alquiler
+Apartamento en alquiler en El Callao,"El Callao, Callao, Callao ",600.0,1 dormitorio,1 baño,40 m²,2022,1.0,Apartamento,Alquiler
+Casa en alquiler en Ag. Inmaculada,"Ag. Inmaculada, Cayma, Arequipa, Arequipa ",4800.0,8 dormitorios,4 baños,520 m²,2000,1.0,Casa,Alquiler
+Casa en alquiler en Manantay,"Manantay, Coronel Portillo, Ucayali ",3600.0,3 dormitorios,2 baños,220 m²,2015,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Aurora Este,"Ur. Aurora Este, Surquillo, Lima, Lima ",2300.0,2 dormitorios,1 baño,75 m²,1979,1.0,Apartamento,Alquiler
+Casa en alquiler en Cayma,"Cayma, Arequipa, Arequipa ",6500.0,3 dormitorios,3 baños,210 m²,2010,6.0,Casa,Alquiler
+Casa en alquiler en Ur. La Encantada,"Ur. La Encantada, Chorrillos, Lima, Lima ",8400.0,3 dormitorios,2 baños,570 m²,2001,670.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Campo De Polo,"Ur. Campo De Polo, San Isidro, Lima, Lima ",4200.0,3 dormitorios,3 baños,176 m²,2014,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Asia,"Asia, Cañete, Lima ",3000.0,4 dormitorios,3 baños,160 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1650.0,2 dormitorios,1 baño,62 m²,2008,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",6000.0,3 dormitorios,2 baños,200 m²,2018,603.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3000.0,3 dormitorios,3 baños,120 m²,2019,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Begonias,"Ur. Las Begonias, San Borja, Lima, Lima ",2900.0,3 dormitorios,3 baños,120 m²,1990,140.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2900.0,4 dormitorios,3 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, San Borja, Lima, Lima ",4500.0,3 dormitorios,3 baños,150 m²,2022,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",2550.0,3 dormitorios,3 baños,114 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",5400.0,2 dormitorios,3 baños,170 m²,2013,506.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Monte Carmelo,"Ur. Monte Carmelo, La Victoria, Lima, Lima ",4900.0,3 dormitorios,3 baños,260 m²,1988,304.0,Casa,Alquiler
+Apartamento en alquiler en Santa Rosa,"Santa Rosa, Provincia de Lima, Provincia de Lima ",7500.0,3 dormitorios,3 baños,217 m²,2022,880.0,Apartamento,Alquiler
+Casa en alquiler en As. Miguel Grau,"As. Miguel Grau, San Bartolo, Lima, Lima ",1350.0,3 dormitorios,1 baño,120 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Andenes,"Ur. Los Andenes, Cayma, Arequipa, Arequipa ",2300.0,3 dormitorios,3 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Magnolias,"Ur. Las Magnolias, Santiago de Surco, Lima, Lima ",2250.0,3 dormitorios,3 baños,121 m²,2007,160.0,Apartamento,Alquiler
+Apartamento en alquiler en Lo. Chacra Cerro,"Lo. Chacra Cerro, Comas, Lima, Lima ",800.0,3 dormitorios,1 baño,49 m²,2016,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Laderas De Melgarejo,"Ur. Las Laderas De Melgarejo, La Molina, Lima, Lima ",2300.0,2 dormitorios,3 baños,76 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2850.0,2 dormitorios,3 baños,128 m²,2018,550.0,Apartamento,Alquiler
+Casa en alquiler en Asia,"Asia, Cañete, Lima ",1800.0,4 dormitorios,4 baños,700 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",2400.0,2 dormitorios,2 baños,145 m²,2023,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Mayorazgo Etapa Iv,"Ur. Mayorazgo Etapa Iv, Ate, Lima, Lima ",2000.0,2 dormitorios,2 baños,120 m²,1998,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Sd. Aeropuerto De Collique,"Sd. Aeropuerto De Collique, Comas, Lima, Lima ",800.0,2 dormitorios,1 baño,60 m²,2016,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, Santiago de Surco, Lima, Lima ",6600.0,3 dormitorios,3 baños,300 m²,2014,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb los Patricios,"Urb los Patricios, Provincia de Lima, Provincia de Lima ",3600.0,3 dormitorios,2 baños,99 m²,2006,310.0,Apartamento,Alquiler
+Apartamento en alquiler en Las Acacias,"Las Acacias, Provincia de Lima, Provincia de Lima ",1950.0,1 dormitorio,1 baño,130 m²,2012,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",1800.0,1 dormitorio,1 baño,60 m²,2023,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Monterrico Norte,"Ur. Monterrico Norte, San Borja, Lima, Lima ",2850.0,3 dormitorios,2 baños,82 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",3000.0,3 dormitorios,2 baños,112 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Lo. Parcelacion - Ex Fundo La Estrella Sector 23,"Lo. Parcelacion - Ex Fundo La Estrella Sector 23, Ate, Lima, Lima ",1000.0,3 dormitorios,2 baños,65 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa Ii,"Ur. Maranga Etapa Ii, San Miguel, Lima, Lima ",2500.0,3 dormitorios,2 baños,124 m²,1995,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2550.0,2 dormitorios,2 baños,90 m²,2020,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2550.0,2 dormitorios,2 baños,90 m²,2012,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",3300.0,2 dormitorios,3 baños,110 m²,2022,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Limatambo,"Ur. Limatambo, San Isidro, Lima, Lima ",4500.0,3 dormitorios,4 baños,200 m²,2011,800.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",3750.0,1 dormitorio,1 baño,110 m²,2019,462.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Sol De La Molina Etapa I,"Ur. El Sol De La Molina Etapa I, La Molina, Lima, Lima ",6600.0,4 dormitorios,3 baños,330 m²,2006,600.0,Casa,Alquiler
+Apartamento en alquiler en Chacra Rios Sur,"Chacra Rios Sur, Provincia de Lima, Provincia de Lima ",1469.0,2 dormitorios,2 baños,58 m²,2017,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Sol De La Molina Etapa I,"Ur. El Sol De La Molina Etapa I, La Molina, Lima, Lima ",6900.0,4 dormitorios,3 baños,330 m²,2006,600.0,Casa,Alquiler
+Casa en alquiler en Ur. El Sol De La Molina Etapa I,"Ur. El Sol De La Molina Etapa I, La Molina, Lima, Lima ",6300.0,4 dormitorios,3 baños,300 m²,2006,600.0,Casa,Alquiler
+Casa en alquiler en Urb Señorial,"Urb Señorial, Arequipa, Arequipa ",4000.0,3 dormitorios,4 baños,200 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Ur. Las Palmas De Surco,"Ur. Las Palmas De Surco, Santiago de Surco, Lima, Lima ",5800.0,4 dormitorios,3 baños,274 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. S/N,"Ur. S/N, Lince, Lima, Lima ",1900.0,1 dormitorio,1 baño,47 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",4650.0,2 dormitorios,3 baños,153 m²,2021,580.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Patricia Etapa Ii,"Ur. Santa Patricia Etapa Ii, La Molina, Lima, Lima ",1500.0,2 dormitorios,1 baño,75 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Rafael,"Ur. San Rafael, Breña, Lima, Lima ",1100.0,2 dormitorios,1 baño,60 m²,2014,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1800.0,1 dormitorio,1 baño,41 m²,2023,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Patricia Etapa Iii,"Ur. Santa Patricia Etapa Iii, La Molina, Lima, Lima ",1100.0,2 dormitorios,1 baño,50 m²,2014,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Tejada Alta,"Ur. Tejada Alta, Barranco, Lima, Lima ",1770.0,1 dormitorio,1 baño,45 m²,2023,240.0,Apartamento,Alquiler
+Casa en alquiler en Chiclayo,"Chiclayo, Chiclayo, Lambayeque ",3000.0,5 dormitorios,3 baños,128 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",2600.0,2 dormitorios,2 baños,69 m²,2015,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,90 m²,2002,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Comas,"Comas, Lima, Lima ",900.0,3 dormitorios,1 baño,56 m²,2023,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia,"Ur. Orrantia, San Isidro, Lima, Lima ",2340.0,3 dormitorios,2 baños,105 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Federico Villarreal,"Ur. Federico Villarreal, Chiclayo, Chiclayo, Lambayeque ",3000.0,5 dormitorios,3 baños,128 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Nuevo Chimbote,"Nuevo Chimbote, Santa, Ancash ",900.0,3 dormitorios,3 baños,108 m²,2019,10.0,Apartamento,Alquiler
+Apartamento en alquiler en Nuevo Chimbote,"Nuevo Chimbote, Santa, Ancash ",450.0,1 dormitorio,1 baño,35 m²,2020,1.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1100.0,1 dormitorio,1 baño,12 m²,2,1.0,Habitación,Alquiler
+Habitación en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",1200.0,1 dormitorio,1 baño,17 m²,2,1.0,Habitación,Alquiler
+Apartamento en alquiler en San Miguel,"San Miguel, Lima, Lima ",2800.0,3 dormitorios,3 baños,108 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",5400.0,2 dormitorios,2 baños,165 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",5700.0,3 dormitorios,3 baños,195 m²,2016,900.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Oeste,"Ur. Valle Hermoso Oeste, Santiago de Surco, Lima, Lima ",3600.0,3 dormitorios,2 baños,133 m²,2010,572.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Rosario,"Ur. El Rosario, San Isidro, Lima, Lima ",5700.0,3 dormitorios,2 baños,203 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Santa Clarita,"As. Santa Clarita, Ate, Lima, Lima ",950.0,3 dormitorios,2 baños,74 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Barboncito,"Ur. Barboncito, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,90 m²,2022,260.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",4200.0,2 dormitorios,2 baños,191 m²,2022,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Patricios (San Felipe),"Ur. Los Patricios (San Felipe), Jesús María, Lima, Lima ",2400.0,3 dormitorios,2 baños,76 m²,2005,268.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Huacrachuco,"Ur. Huacrachuco, Chorrillos, Lima, Lima ",1200.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Felipe,"Ur. San Felipe, Jesús María, Lima, Lima ",2400.0,3 dormitorios,2 baños,93 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero),"Hu. Ex Fundo Monterrico Chico Parcela 2 (San Idelfonso Del Vivero), Santiago de Surco, Lima, Lima ",3300.0,3 dormitorios,3 baños,165 m²,2012,520.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Viñita,"Ur. La Viñita, Barranco, Lima, Lima ",1700.0,1 dormitorio,1 baño,40 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. German Astete,"Ur. German Astete, La Perla, Callao, Callao ",1600.0,3 dormitorios,2 baños,82 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Isidro,"Ur. San Isidro, San Isidro, Lima, Lima ",3600.0,2 dormitorios,2 baños,106 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Monterrico Chico,"Fundo Monterrico Chico, Provincia de Lima, Provincia de Lima ",3300.0,3 dormitorios,3 baños,131 m²,2012,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Isabel B,"Ur. Chacarilla Santa Cruz Zona Santa Isabel B, San Isidro, Lima, Lima ",4950.0,3 dormitorios,2 baños,161 m²,1968,800.0,Apartamento,Alquiler
+Casa en alquiler en Piura,"Piura, Piura, Piura ",4500.0,6 dormitorios,7 baños,500 m²,2019,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Jacaranda,"Ur. Jacaranda, San Borja, Lima, Lima ",3000.0,3 dormitorios,3 baños,94 m²,2022,220.0,Apartamento,Alquiler
+Casa en alquiler en Piura,"Piura, Piura, Piura ",3750.0,3 dormitorios,5 baños,200 m²,2018,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Campo De Polo,"Ur. Campo De Polo, Magdalena del Mar, Lima, Lima ",2250.0,1 dormitorio,1 baño,45 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en San Borja,"San Borja, Lima, Lima ",2400.0,3 dormitorios,2 baños,95 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,85 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Pueblo Libre, Lima, Lima ",2500.0,3 dormitorios,3 baños,150 m²,2012,180.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Vista Alegre,"Ur. Vista Alegre, Santiago de Surco, Lima, Lima ",4100.0,3 dormitorios,3 baños,92 m²,2023,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, Lince, Lima, Lima ",2500.0,2 dormitorios,2 baños,75 m²,2015,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Residencial Etapa Ii,"Ur. Valle Hermoso Residencial Etapa Ii, Santiago de Surco, Lima, Lima ",4200.0,3 dormitorios,3 baños,300 m²,2010,480.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",7800.0,3 dormitorios,3 baños,330 m²,2000,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3000.0,3 dormitorios,3 baños,112 m²,2022,570.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Santa Cruz, Provincia de Lima, Provincia de Lima ",4500.0,3 dormitorios,2 baños,115 m²,2008,900.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,2 baños,1 Medio baño,2003,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Nueva Castilla,"Ur. Nueva Castilla, Santiago de Surco, Lima, Lima ",2940.0,3 dormitorios,3 baños,140 m²,2018,304.0,Apartamento,Alquiler
+Casa de playa en alquiler en Playa San Bartolo,"Playa San Bartolo, Provincia de Lima, Provincia de Lima ",3900.0,4 dormitorios,4 baños,1 Medio baño,2015,304.0,Casa de playa,Alquiler
+Casa en alquiler en Cieneguilla,"Cieneguilla, Lima, Lima ",2970.0,4 dormitorios,3 baños,"1,024 m²",2021,450.0,Casa,Alquiler
+Casa en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",4800.0,5 dormitorios,6 baños,"1,024 m²",2018,304.0,Casa,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",7200.0,3 dormitorios,2 baños,200 m²,2006,650.0,Apartamento,Alquiler
+Casa de playa en alquiler en Cerro Azul,"Cerro Azul, Cañete, Lima ",3000.0,4 dormitorios,4 baños,1 Medio baño,2022,304.0,Casa de playa,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",2100.0,1 dormitorio,1 baño,50 m²,2014,221.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2850.0,2 dormitorios,3 baños,85 m²,2013,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Re. San Felipe,"Re. San Felipe, San Isidro, Lima, Lima ",7950.0,3 dormitorios,3 baños,450 m²,1995,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa Iii,"Ur. Maranga Etapa Iii, San Miguel, Lima, Lima ",1600.0,2 dormitorios,1 baño,53 m²,1990,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",2800.0,2 dormitorios,3 baños,115 m²,2010,1.0,Apartamento,Alquiler
+Casa en alquiler en Surco,"Surco, Santiago De Surco, Lima, Lima ",7500.0,5 dormitorios,5 baños,300 m²,2017,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Jazmines,"Ur. Los Jazmines, Santiago de Surco, Lima, Lima ",2400.0,3 dormitorios,3 baños,170 m²,2022,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San German Etapa I,"Ur. San German Etapa I, San Martín de Porres, Lima, Lima ",900.0,1 dormitorio,1 baño,35 m²,1998,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Haras Tyber,"Urb Haras Tyber, Provincia de Lima, Provincia de Lima ",1300.0,1 dormitorio,1 baño,15 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Aurora,"Ur. Aurora, Miraflores, Lima, Lima ",8970.0,3 dormitorios,4 baños,355 m²,2018,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",3621.0,3 dormitorios,4 baños,132 m²,2015,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",1800.0,2 dormitorios,1 baño,90 m²,2008,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",6300.0,3 dormitorios,3 baños,190 m²,2002,580.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Costa Sur,"Urb Costa Sur, Provincia de Lima, Provincia de Lima ",2250.0,1 dormitorio,2 baños,58 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Huertos de San Antonio,"Urb Huertos de San Antonio, Provincia de Lima, Provincia de Lima ",1950.0,3 dormitorios,2 baños,165 m²,2000,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Leuro,"Leuro, Provincia de Lima, Provincia de Lima ",8100.0,3 dormitorios,3 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Huertos De San Antonio,"Ur. Huertos De San Antonio, Santiago de Surco, Lima, Lima ",1950.0,3 dormitorios,2 baños,170 m²,1990,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jardin,"Ur. Jardin, San Isidro, Lima, Lima ",3600.0,4 dormitorios,3 baños,156 m²,2011,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",6600.0,3 dormitorios,2 baños,200 m²,1996,740.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Los Tulipanes,"Ur. Los Tulipanes, Miraflores, Lima, Lima ",4000.0,3 dormitorios,2 baños,121 m²,2018,280.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb las Gardenias Etapa 1,"Urb las Gardenias Etapa 1, Provincia de Lima, Provincia de Lima ",1200.0,1 dormitorio,1 baño,30 m²,2020,1.0,Apartamento,Alquiler
+Casa en alquiler en San Ramón,"San Ramón, Tambo Grande, Piura, Piura ",2800.0,7 dormitorios,3 baños,312 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",3300.0,3 dormitorios,2 baños,124 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Brisas,"Ur. Las Brisas, Chiclayo, Chiclayo, Lambayeque ",1000.0,3 dormitorios,1 baño,90 m²,2000,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Luis,"Ur. San Luis, Miraflores, Lima, Lima ",2400.0,3 dormitorios,3 baños,86 m²,2012,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Isabel,"Ur. Chacarilla Santa Cruz Zona Santa Isabel, San Isidro, Lima, Lima ",4500.0,3 dormitorios,3 baños,120 m²,2017,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Antonio,"Ur. San Antonio, Miraflores, Lima, Lima ",2250.0,1 dormitorio,1 baño,70 m²,2012,420.0,Apartamento,Alquiler
+Apartamento en alquiler en San Felipe,"San Felipe, Provincia de Lima, Provincia de Lima ",2550.0,2 dormitorios,2 baños,75 m²,2018,304.0,Apartamento,Alquiler
+Casa en alquiler en Lurin,"Lurin, Lima, Lima ",1200.0,3 dormitorios,1 baño,150 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Barranco,"Barranco, Lima, Lima ",1800.0,1 dormitorio,1 baño,60 m²,1987,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",3600.0,3 dormitorios,3 baños,110 m²,2010,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",5400.0,3 dormitorios,3 baños,114 m²,2016,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",3300.0,2 dormitorios,3 baños,130 m²,2005,600.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",1950.0,1 dormitorio,1 baño,57 m²,2022,167.0,Apartamento,Alquiler
+Apartamento en alquiler en Co. Vipol El Alamo,"Co. Vipol El Alamo, Comas, Lima, Lima ",950.0,3 dormitorios,1 baño,62 m²,2022,110.0,Apartamento,Alquiler
+Casa en alquiler en Lima Polo and Hunt Club,"Lima Polo and Hunt Club, Provincia de Lima, Provincia de Lima ",6750.0,3 dormitorios,2 baños,312 m²,1997,304.0,Casa,Alquiler
+Casa en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",9000.0,10 dormitorios,10 baños,250 m²,2011,304.0,Casa,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",2400.0,3 dormitorios,3 baños,91 m²,2004,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Rosa De Surco,"Ur. Santa Rosa De Surco, Santiago de Surco, Lima, Lima ",2850.0,3 dormitorios,4 baños,140 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Oeste,"Ur. Valle Hermoso Oeste, Santiago de Surco, Lima, Lima ",4200.0,3 dormitorios,3 baños,200 m²,2000,630.0,Apartamento,Alquiler
+Apartamento en alquiler en Pj. Hacienda Pro,"Pj. Hacienda Pro, Los Olivos, Lima, Lima ",1500.0,3 dormitorios,2 baños,77 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2670.0,2 dormitorios,2 baños,62 m²,2023,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2280.0,1 dormitorio,1 baño,45 m²,2023,304.0,Apartamento,Alquiler
+Casa de playa en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",3000.0,4 dormitorios,4 baños,2 Medios baños,2008,300.0,Casa de playa,Alquiler
+Apartamento en alquiler en San Juan Zona B,"San Juan Zona B, Provincia de Lima, Provincia de Lima ",1500.0,4 dormitorios,2 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. La Perla,"Ur. La Perla, La Perla, Callao, Callao ",2000.0,2 dormitorios,2 baños,56 m²,2023,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Rimac,"Rimac, Lima, Lima ",1300.0,2 dormitorios,1 baño,51 m²,2021,160.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",4200.0,3 dormitorios,3 baños,175 m²,2013,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Isabel B,"Ur. Chacarilla Santa Cruz Zona Santa Isabel B, San Isidro, Lima, Lima ",4950.0,3 dormitorios,2 baños,170 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Oyague,"Ur. Oyague, Magdalena del Mar, Lima, Lima ",2550.0,3 dormitorios,2 baños,76 m²,2019,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",7200.0,3 dormitorios,2 baños,332 m²,2012,1.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Cedros De Villa Etapa Xi,"Ur. Los Cedros De Villa Etapa Xi, Chorrillos, Lima, Lima ",3000.0,6 dormitorios,4 baños,90 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Uv. Mirones,"Uv. Mirones, Lima, Lima, Lima ",1690.0,2 dormitorios,2 baños,60 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2910.0,1 dormitorio,2 baños,105 m²,2016,392.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2910.0,1 dormitorio,2 baños,105 m²,2011,392.0,Apartamento,Alquiler
+Casa en alquiler en Cayma,"Cayma, Cerro Colorado, Arequipa, Arequipa ",5250.0,5 dormitorios,9 baños,350 m²,2022,170.0,Casa,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",3000.0,2 dormitorios,4 baños,121 m²,2022,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,2 baños,85 m²,2012,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz Zona Santa Isabel B,"Ur. Chacarilla Santa Cruz Zona Santa Isabel B, San Isidro, Lima, Lima ",4950.0,3 dormitorios,2 baños,170 m²,1998,900.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Jose,"Ur. San Jose, Bellavista, Callao, Callao ",1800.0,3 dormitorios,2 baños,160 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2550.0,2 dormitorios,3 baños,90 m²,2009,400.0,Apartamento,Alquiler
+Casa de playa en alquiler en Ur. Punta Negra,"Ur. Punta Negra, Punta Negra, Lima, Lima ",2400.0,3 dormitorios,2 baños,120 m²,1993,304.0,Casa de playa,Alquiler
+Apartamento en alquiler en Urb Santa Cruz,"Urb Santa Cruz, Provincia de Lima, Provincia de Lima ",2700.0,1 dormitorio,2 baños,105 m²,2014,560.0,Apartamento,Alquiler
+Apartamento en alquiler en Armendáriz,"Armendáriz, Provincia de Lima, Provincia de Lima ",7500.0,3 dormitorios,3 baños,180 m²,2001,760.0,Apartamento,Alquiler
+Apartamento en alquiler en Leuro,"Leuro, Provincia de Lima, Provincia de Lima ",4650.0,5 dormitorios,4 baños,200 m²,2022,800.0,Apartamento,Alquiler
+Casa en alquiler en As. Los Zorzales,"As. Los Zorzales, Puente Piedra, Lima, Lima ",2343.0,5 dormitorios,4 baños,120 m²,2013,304.0,Casa,Alquiler
+Casa en alquiler en Chaclacayo,"Chaclacayo, Lima, Lima ",1500.0,3 dormitorios,3 baños,135 m²,2022,304.0,Casa,Alquiler
+Casa de playa en alquiler en Chilca,"Chilca, Huancayo, Junín ",2550.0,4 dormitorios,2 baños,2 Medios baños,2021,180.0,Casa de playa,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Santa Cruz,"Ur. Chacarilla Santa Cruz, San Isidro, Lima, Lima ",2370.0,1 dormitorio,1 baño,45 m²,2023,304.0,Apartamento,Alquiler
+Casa en alquiler en Cv. C.I.P,"Cv. C.I.P, Cayma, Arequipa, Arequipa ",7500.0,4 dormitorios,5 baños,400 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. El Rosal,"Ur. El Rosal, Miraflores, Lima, Lima ",3450.0,4 dormitorios,5 baños,165 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Prolongacion Benavides,"Ur. Prolongacion Benavides, Santiago de Surco, Lima, Lima ",3900.0,3 dormitorios,3 baños,110 m²,2021,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Rosal,"Ur. El Rosal, Miraflores, Lima, Lima ",3450.0,4 dormitorios,5 baños,165 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,3 baños,200 m²,2007,645.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Las Viñas De San Antonio Etapa I,"As. Las Viñas De San Antonio Etapa I, Santiago de Surco, Lima, Lima ",2175.0,3 dormitorios,3 baños,110 m²,2018,273.0,Apartamento,Alquiler
+Habitación en alquiler en Urb el Carmen,"Urb el Carmen, Provincia de Lima, Provincia de Lima ",600.0,1 dormitorio,1 baño,14 m²,2000,1.0,Habitación,Alquiler
+Apartamento en alquiler en Reducto,"Reducto, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",7500.0,5 dormitorios,5 baños,535 m²,1992,2.0,Apartamento,Alquiler
+Apartamento en alquiler en As. Los Heraldos,"As. Los Heraldos, Santiago de Surco, Lima, Lima ",2500.0,3 dormitorios,4 baños,180 m²,2007,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Pj. El Carmen Alto,"Pj. El Carmen Alto, Comas, Lima, Lima ",1100.0,3 dormitorios,1 baño,65 m²,2022,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2250.0,2 dormitorios,2 baños,80 m²,2023,460.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Miramar,"Ur. Miramar, San Miguel, Lima, Lima ",2250.0,3 dormitorios,2 baños,83 m²,2019,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Olivar,"Ur. El Olivar, Callao, Callao, Callao ",1000.0,2 dormitorios,1 baño,100 m²,1990,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Ignacio,"Ur. San Ignacio, Barranco, Lima, Lima ",2250.0,1 dormitorio,1 baño,50 m²,2023,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb los Girasoles de Huampani,"Urb los Girasoles de Huampani, Provincia de Lima, Provincia de Lima ",1700.0,3 dormitorios,2 baños,90 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Sullana,"Sullana, Sullana, Piura ",1300.0,1 dormitorio,1 baño,34 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",1500.0,1 dormitorio,1 baño,47 m²,2022,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Uv Del Rimac,"Uv Del Rimac, Rimac, Lima, Lima ",1200.0,2 dormitorios,1 baño,55 m²,2021,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",1650.0,1 dormitorio,1 baño,48 m²,2022,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",4200.0,2 dormitorios,2 baños,115 m²,2017,600.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Collique,"Ur. Collique, Comas, Lima, Lima ",3000.0,8 dormitorios,3 baños,54 m²,1993,304.0,Casa,Alquiler
+Apartamento en alquiler en Coronel Portillo,"Coronel Portillo, Ucayali ",1300.0,2 dormitorios,2 baños,80 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Confraternidad,"Urb Confraternidad, Provincia de Lima, Provincia de Lima ",5400.0,2 dormitorios,2 baños,165 m²,2005,778.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",4200.0,3 dormitorios,2 baños,140 m²,1999,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Lo. Huertos Del Naranjal,"Lo. Huertos Del Naranjal, San Martín de Porres, Lima, Lima ",1000.0,2 dormitorios,1 baño,65 m²,2023,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2400.0,1 dormitorio,1 baño,58 m²,2000,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Chacarilla-Santa Cruz,"Chacarilla-Santa Cruz, Provincia de Lima, Provincia de Lima ",3000.0,2 dormitorios,1 baño,70 m²,2022,320.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",2970.0,2 dormitorios,2 baños,110 m²,2010,500.0,Apartamento,Alquiler
+Apartamento en alquiler en San Juan Bautista,"San Juan Bautista, Maynas, Loreto ",2000.0,2 dormitorios,2 baños,84 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Provincia de Lima, Provincia de Lima ",4200.0,2 dormitorios,2 baños,1 Medio baño,2016,304.0,Apartamento,Alquiler
+Casa en alquiler en Ah. Por La Union,"Ah. Por La Union, Villa María del Triunfo, Lima, Lima ",3300.0,2 dormitorios,3 baños,278 m²,2015,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",3300.0,3 dormitorios,2 baños,130 m²,2018,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",3600.0,2 dormitorios,3 baños,140 m²,2015,550.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",1650.0,1 dormitorio,1 baño,50 m²,1998,220.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Residencial Valle Hermoso,"Urb Residencial Valle Hermoso, Provincia de Lima, Provincia de Lima ",2850.0,3 dormitorios,4 baños,110 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Rosa,"Ur. Santa Rosa, San Isidro, Lima, Lima ",7800.0,3 dormitorios,4 baños,244 m²,2012,960.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Orrantia Del Mar,"Ur. Orrantia Del Mar, San Isidro, Lima, Lima ",3000.0,2 dormitorios,2 baños,140 m²,2022,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. El Cortijo Etapa I,"Ur. El Cortijo Etapa I, Santiago de Surco, Lima, Lima ",3450.0,3 dormitorios,3 baños,145 m²,2003,150.0,Apartamento,Alquiler
+Apartamento en alquiler en Castilla,"Castilla, Piura, Piura ",1400.0,3 dormitorios,2 baños,72 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Sector 3,"Sector 3, Provincia de Lima, Provincia de Lima ",1650.0,1 dormitorio,1 baño,50 m²,1997,350.0,Apartamento,Alquiler
+Casa en alquiler en Arequipa,"Arequipa, Arequipa, Arequipa ",7500.0,7 dormitorios,3 baños,480 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, Lince, Lima, Lima ",2500.0,2 dormitorios,2 baños,65 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Res el Pinar,"Res el Pinar, Provincia de Lima, Provincia de Lima ",870.0,2 dormitorios,1 baño,79 m²,2022,70.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb las Lomas de Monterrico,"Urb las Lomas de Monterrico, Provincia de Lima, Provincia de Lima ",2850.0,3 dormitorios,3 baños,168 m²,2016,470.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Eugenio,"Ur. San Eugenio, Lince, Lima, Lima ",2500.0,2 dormitorios,2 baños,65 m²,2022,390.0,Apartamento,Alquiler
+Apartamento en alquiler en La Calera De La Merced,"La Calera De La Merced, Provincia de Lima, Provincia de Lima ",1950.0,1 dormitorio,1 baño,45 m²,2022,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Po. Huancayo,"Po. Huancayo, Huancayo, Huancayo, Junín ",2200.0,2 dormitorios,2 baños,97 m²,2013,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Las Delicias,"Las Delicias, Chiclayo, Lambayeque ",1500.0,3 dormitorios,2 baños,120 m²,2001,304.0,Apartamento,Alquiler
+Casa en alquiler en Bellavista,"Bellavista, Callao, Callao ",3900.0,4 dormitorios,2 baños,200 m²,1978,1.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Pinares,"Ur. Los Pinares, Los Olivos, Lima, Lima ",900.0,2 dormitorios,1 baño,80 m²,2012,1.0,Apartamento,Alquiler
+Apartamento en alquiler en La Molina,"La Molina, Lima, Lima ",3600.0,3 dormitorios,2 baños,140 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Fernando,"Ur. San Fernando, La Perla, Callao, Callao ",2600.0,3 dormitorios,2 baños,120 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ate,"Ate, Lima, Lima ",1800.0,3 dormitorios,2 baños,110 m²,2014,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Neptuno,"Neptuno, Provincia de Lima, Provincia de Lima ",2850.0,3 dormitorios,2 baños,115 m²,2000,170.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Paulo Vi,"Ur. Paulo Vi, San Miguel, Lima, Lima ",1800.0,2 dormitorios,1 baño,90 m²,2012,1.0,Apartamento,Alquiler
+Casa en alquiler en San Isidro,"San Isidro, C.H. La Angostura - I Etapa, Ica, Ica ",5400.0,11 dormitorios,4 baños,95 m²,2007,1.0,Casa,Alquiler
+Casa en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",5400.0,3 dormitorios,2 baños,230 m²,2001,304.0,Casa,Alquiler
+Casa en alquiler en Catacaos,"Catacaos, Piura, Piura ",780.0,2 dormitorios,1 baño,120 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Cieneguilla,"Cieneguilla, Lima, Lima ",4000.0,6 dormitorios,6 baños,"1,000 m²",2015,200.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",7800.0,4 dormitorios,5 baños,313 m²,2010,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb las Gardenias Etapa 1,"Urb las Gardenias Etapa 1, Provincia de Lima, Provincia de Lima ",1200.0,1 dormitorio,1 baño,30 m²,2020,1.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Las Magnolias,"Ur. Las Magnolias, San Borja, Lima, Lima ",7500.0,9 dormitorios,7 baños,416 m²,2022,304.0,Casa,Alquiler
+Casa en alquiler en Piura,"Piura, Piura, Piura ",6600.0,5 dormitorios,8 baños,500 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Los Chasquis Iii Etapa,"Ur. Los Chasquis Iii Etapa, Comas, Lima, Lima ",1600.0,3 dormitorios,3 baños,84 m²,2022,200.0,Apartamento,Alquiler
+Apartamento en alquiler en San Miguel de Miraflores,"San Miguel de Miraflores, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",5100.0,3 dormitorios,4 baños,240 m²,2012,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Piura,"Piura, Piura, Piura ",936.0,2 dormitorios,1 baño,51 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Corpac,"Ur. Corpac, San Isidro, Lima, Lima ",4200.0,2 dormitorios,2 baños,179 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2550.0,3 dormitorios,3 baños,110 m²,2010,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chama,"Ur. Chama, Santiago de Surco, Lima, Lima ",2200.0,2 dormitorios,1 baño,95 m²,1998,130.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,3 baños,200 m²,1993,645.0,Apartamento,Alquiler
+Apartamento en alquiler en Country Club,"Country Club, Provincia de Lima, Provincia de Lima ",4050.0,2 dormitorios,2 baños,130 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",1950.0,2 dormitorios,2 baños,70 m²,2021,200.0,Apartamento,Alquiler
+Apartamento en alquiler en A.h la Planicie,"A.h la Planicie, Provincia de Lima, Provincia de Lima ",7500.0,3 dormitorios,3 baños,106 m²,2011,400.0,Apartamento,Alquiler
+Casa de playa en alquiler en Los Órganos,"Los Órganos, Talara, Piura ",1176.0,3 dormitorios,4 baños,134 m²,2022,304.0,Casa de playa,Alquiler
+Apartamento en alquiler en Arenales,"Arenales, Arequipa, Arequipa ",1600.0,1 dormitorio,1 baño,38 m²,2018,130.0,Apartamento,Alquiler
+Casa en alquiler en Miraflores,"Miraflores, Miraflores, Arequipa, Arequipa ",4917.0,8 dormitorios,4 baños,272 m²,1983,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. La Virreyna,"Ur. La Virreyna, Santiago de Surco, Lima, Lima ",2300.0,2 dormitorios,3 baños,110 m²,2007,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",3000.0,6 dormitorios,2 baños,120 m²,1960,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Campo De Polo,"Ur. Campo De Polo, Magdalena del Mar, Lima, Lima ",3900.0,3 dormitorios,3 baños,100 m²,2009,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. Los Bungalows,"Ur. Los Bungalows, San Bartolo, Lima, Lima ",6000.0,4 dormitorios,3 baños,360 m²,2007,304.0,Casa,Alquiler
+Apartamento en alquiler en Carabayllo,"Carabayllo, Lima, Lima ",880.0,3 dormitorios,1 baño,55 m²,2020,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Maranga Etapa V,"Ur. Maranga Etapa V, San Miguel, Lima, Lima ",2700.0,3 dormitorios,2 baños,140 m²,2005,220.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",4608.0,4 dormitorios,4 baños,180 m²,2007,450.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",7500.0,3 dormitorios,3 baños,100 m²,2018,1.0,Apartamento,Alquiler
+Habitación en alquiler en Ur. Balta,"Ur. Balta, Miraflores, Lima, Lima ",130.0,1 dormitorio,1 baño,12 m²,2,304.0,Habitación,Alquiler
+Casa en alquiler en Ur. San Miguel,"Ur. San Miguel, San Miguel, Lima, Lima ",4400.0,4 dormitorios,3 baños,160 m²,2007,10.0,Casa,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",1490.0,1 dormitorio,1 baño,44 m²,2017,250.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",4071.0,3 dormitorios,4 baños,105 m²,2018,380.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3769.0,2 dormitorios,2 baños,65 m²,2021,330.0,Apartamento,Alquiler
+Apartamento en alquiler en Chacarilla-Santa Cruz,"Chacarilla-Santa Cruz, Urb Santa Cruz, Provincia de Lima, Provincia de Lima ",6900.0,3 dormitorios,2 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. San Borja,"Ur. San Borja, San Borja, Lima, Lima ",3400.0,3 dormitorios,3 baños,91 m²,2022,240.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",5400.0,3 dormitorios,2 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb San Borja,"Urb San Borja, Provincia de Lima, Provincia de Lima ",3600.0,3 dormitorios,1 baño,64 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Lima, Lima ",6000.0,3 dormitorios,3 baños,200 m²,2000,645.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Lima, Lima ",3000.0,2 dormitorios,2 baños,100 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",3900.0,3 dormitorios,3 baños,160 m²,2022,720.0,Apartamento,Alquiler
+Apartamento en alquiler en Urb Confraternidad,"Urb Confraternidad, Provincia de Lima, Provincia de Lima ",1800.0,1 dormitorio,1 baño,42 m²,2010,180.0,Apartamento,Alquiler
+Casa en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",3900.0,3 dormitorios,4 baños,114 m²,1977,70.0,Casa,Alquiler
+Apartamento en alquiler en Ah. San Hilarion,"Ah. San Hilarion, San Juan de Lurigancho, Lima, Lima ",850.0,2 dormitorios,1 baño,55 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ah. San Hilarion,"Ah. San Hilarion, San Juan de Lurigancho, Lima, Lima ",850.0,2 dormitorios,1 baño,55 m²,2021,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,2 baños,200 m²,2000,654.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Risso,"Ur. Risso, San Isidro, Lima, Lima ",2995.0,1 dormitorio,2 baños,65 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, Santiago de Surco, Lima, Lima ",4950.0,3 dormitorios,3 baños,1 Medio baño,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Lobaton,"Ur. Lobaton, San Isidro, Lima, Lima ",5400.0,3 dormitorios,3 baños,398 m²,1992,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Lagunas De La Molina Etapa Iii,"Ur. Las Lagunas De La Molina Etapa Iii, La Molina, Lima, Lima ",2250.0,3 dormitorios,2 baños,95 m²,2011,325.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Violetas,"Ur. Las Violetas, Santiago de Surco, Lima, Lima ",4775.0,3 dormitorios,2 baños,187 m²,1998,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2100.0,2 dormitorios,2 baños,53 m²,2016,290.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",2700.0,3 dormitorios,2 baños,146 m²,1990,460.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",3750.0,2 dormitorios,3 baños,180 m²,1992,790.0,Apartamento,Alquiler
+Casa en alquiler en Surco,"Surco, Santiago De Surco, Lima, Lima ",4500.0,4 dormitorios,4 baños,310 m²,2022,304.0,Casa,Alquiler
+Casa de playa en alquiler en Cerro Azul,"Cerro Azul, Cañete, Lima ",3000.0,4 dormitorios,3 baños,2 Medios baños,2010,300.0,Casa de playa,Alquiler
+Casa en alquiler en Ur. San Ignacio De Monterrico (San Ignacio De Loyola),"Ur. San Ignacio De Monterrico (San Ignacio De Loyola), Santiago de Surco, Lima, Lima ",2000.0,2 dormitorios,1 baño,80 m²,1980,304.0,Casa,Alquiler
+Apartamento en alquiler en Jardín,"Jardín, San Eugenio, Provincia de Lima, Provincia de Lima ",3000.0,3 dormitorios,2 baños,140 m²,2022,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Club Arabe,"Hu. Club Arabe, Santiago de Surco, Lima, Lima ",4800.0,3 dormitorios,2 baños,150 m²,2012,650.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2700.0,1 dormitorio,2 baños,97 m²,2019,350.0,Apartamento,Alquiler
+Apartamento en alquiler en San Isidro,"San Isidro, Arequipa, Arequipa, Arequipa ",1700.0,3 dormitorios,2 baños,82 m²,1989,115.0,Apartamento,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",3750.0,2 dormitorios,3 baños,100 m²,2022,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Covima,"Ur. Covima, La Molina, Lima, Lima ",1497.0,2 dormitorios,2 baños,70 m²,2000,50.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Valle Hermoso Oeste,"Ur. Valle Hermoso Oeste, Santiago de Surco, Lima, Lima ",7500.0,3 dormitorios,3 baños,367 m²,2000,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Surquillo,"Surquillo, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2100.0,1 dormitorio,2 baños,60 m²,2013,220.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jardin,"Ur. Jardin, San Isidro, Lima, Lima ",3450.0,3 dormitorios,3 baños,136 m²,2012,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Fundo Conde San Isidro,"Fundo Conde San Isidro, Provincia de Lima, Provincia de Lima ",2100.0,1 dormitorio,1 baño,48 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jardin,"Ur. Jardin, San Isidro, Lima, Lima ",3450.0,3 dormitorios,3 baños,136 m²,2012,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Santiago de Surco,"Santiago de Surco, Lima, Lima ",2250.0,3 dormitorios,2 baños,90 m²,2005,350.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",2550.0,2 dormitorios,3 baños,150 m²,2022,540.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",2700.0,2 dormitorios,3 baños,100 m²,1967,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",1560.0,1 dormitorio,1 baño,50 m²,1980,100.0,Apartamento,Alquiler
+Oficina en alquiler en Progreso,"Progreso, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",1500.0,1 dormitorio,1 baño,38 m²,2003,304.0,Oficina,Alquiler
+Apartamento en alquiler en Miraflores,"Miraflores, Arequipa, Arequipa ",6000.0,3 dormitorios,2 baños,207 m²,1980,790.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Cruz,"Santa Cruz, Urb Jose Balta, Provincia de Lima, Provincia de Lima ",3600.0,3 dormitorios,2 baños,155 m²,2013,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Santa Anita,"Santa Anita, Lima, Lima ",1200.0,3 dormitorios,2 baños,120 m²,2003,100.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Chacarilla Del Estanque,"Ur. Chacarilla Del Estanque, San Borja, Lima, Lima ",8400.0,3 dormitorios,4 baños,383 m²,2010,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Chacarilla-Santa Cruz,"Chacarilla-Santa Cruz, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",3900.0,3 dormitorios,3 baños,157 m²,2013,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",4800.0,3 dormitorios,3 baños,130 m²,2015,500.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Trinidad,"Ur. Trinidad, Lima, Lima, Lima ",3500.0,5 dormitorios,3 baños,190 m²,1980,1.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Jacaranda,"Ur. Jacaranda, San Borja, Lima, Lima ",2400.0,2 dormitorios,2 baños,90 m²,2012,120.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Mayorazgo Etapa Iv,"Ur. Mayorazgo Etapa Iv, Ate, Lima, Lima ",1600.0,2 dormitorios,1 baño,54 m²,2022,100.0,Apartamento,Alquiler
+Casa en alquiler en Sol De La Molina 2 Etapa,"Sol De La Molina 2 Etapa, Provincia de Lima, Provincia de Lima ",6000.0,3 dormitorios,2 baños,306 m²,2014,700.0,Casa,Alquiler
+Casa en alquiler en Centro Urbano de Pucallpa,"Centro Urbano de Pucallpa, Coronel Portillo, Ucayali ",2500.0,5 dormitorios,4 baños,300 m²,2007,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",5997.0,4 dormitorios,3 baños,230 m²,1997,700.0,Apartamento,Alquiler
+Apartamento en alquiler en Cerros de Camacho,"Cerros de Camacho, Provincia de Lima, Provincia de Lima ",5400.0,3 dormitorios,4 baños,215 m²,2005,960.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Corpac,"Ur. Corpac, San Isidro, Lima, Lima ",2000.0,1 dormitorio,1 baño,65 m²,2000,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Leuro,"Ur. Leuro, Miraflores, Lima, Lima ",2250.0,1 dormitorio,1 baño,48 m²,2022,210.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, San Isidro, Lima, Lima ",1710.0,1 dormitorio,1 baño,60 m²,1983,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Magnolias,"Ur. Las Magnolias, San Borja, Lima, Lima ",2970.0,3 dormitorios,4 baños,220 m²,2004,200.0,Apartamento,Alquiler
+Apartamento en alquiler en Provincia de Lima,"Provincia de Lima, Provincia de Lima ",2250.0,2 dormitorios,1 baño,110 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en San Bartolo,"San Bartolo, Lima, Lima ",5400.0,3 dormitorios,3 baños,88 m²,2018,400.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",5100.0,2 dormitorios,2 baños,172 m²,2019,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",3150.0,1 dormitorio,15 baños,90 m²,2016,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Valle Hermoso Oeste,"Valle Hermoso Oeste, Provincia de Lima, Provincia de Lima ",7752.0,4 dormitorios,4 baños,428 m²,2010,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",4050.0,2 dormitorios,2 baños,105 m²,2021,200.0,Apartamento,Alquiler
+Apartamento en alquiler en San Miguel de Miraflores,"San Miguel de Miraflores, Urb Cercado de Miraflores, Provincia de Lima, Provincia de Lima ",2340.0,2 dormitorios,1 baño,86 m²,2022,58.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Armendariz,"Ur. Armendariz, Miraflores, Lima, Lima ",2850.0,2 dormitorios,3 baños,100 m²,2014,300.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Las Gardenias,"Ur. Las Gardenias, Santiago de Surco, Lima, Lima ",2850.0,1 dormitorio,1 baño,67 m²,2022,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. Confraternidad,"Ur. Confraternidad, Barranco, Lima, Lima ",2100.0,1 dormitorio,1 baño,50 m²,2021,304.0,Apartamento,Alquiler
+Casa en alquiler en Lima,"Lima, Lima, Lima ",3600.0,4 dormitorios,3 baños,1 Medio baño,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en Ur. Santa Cruz,"Ur. Santa Cruz, Miraflores, Lima, Lima ",2790.0,2 dormitorios,2 baños,77 m²,2022,304.0,Apartamento,Alquiler
+Casa en alquiler en Ur. El Señorial,"Ur. El Señorial, Cayma, Arequipa, Arequipa ",8000.0,5 dormitorios,4 baños,320 m²,2022,304.0,Casa,Alquiler
+Apartamento en alquiler en As. Residencial Virgen Del Carmen,"As. Residencial Virgen Del Carmen, San Martín de Porres, Lima, Lima ",1000.0,3 dormitorios,1 baño,97 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Hu. Cercado De Miraflores,"Hu. Cercado De Miraflores, Miraflores, Lima, Lima ",4800.0,2 dormitorios,2 baños,211 m²,2020,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Ur. America,"Ur. America, Miraflores, Lima, Lima ",1800.0,1 dormitorio,2 baños,64 m²,1996,304.0,Apartamento,Alquiler
+Apartamento en alquiler en Orrantia del Mar,"Orrantia del Mar, Urb Campo de Polo, Provincia de Lima, Provincia de Lima ",3300.0,3 dormitorios,2 baños,125 m²,2022,470.0,Apartamento,Alquiler
+Casa en alquiler en La Campestre La Laguna,"La Campestre La Laguna, La Planicie, Provincia de Lima, Provincia de Lima ",4350.0,3 dormitorios,3 baños,300 m²,2005,450.0,Casa,Alquiler
+Casa de playa en alquiler en Asia,"Asia, Cañete, Lima ",4000.0,2 dormitorios,2 baños,75 m²,2018,350.0,Casa de playa,Alquiler
+Casa en alquiler en La Campestre La Laguna,"La Campestre La Laguna, La Molina, Provincia de Lima, Provincia de Lima ",4350.0,3 dormitorios,3 baños,300 m²,2005,450.0,Casa,Alquiler
+Casa en alquiler en La Campestre La Laguna,"La Campestre La Laguna, La Molina, Provincia de Lima, Provincia de Lima ",4350.0,3 dormitorios,3 baños,300 m²,2005,450.0,Casa,Alquiler
